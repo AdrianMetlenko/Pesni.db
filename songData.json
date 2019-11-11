@@ -30,8 +30,7 @@
             {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "Братских народов союз вековой,"},
             {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "Предками данная мудрость народная!"},
             {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "Славься, страна! Мы гордимся тобой!"}
-        ],
-        "id": "uC2snb91TW7S53uVcEZM"
+        ]
     },
     {
         "name": "Боже, Царя храни!",
@@ -46,8 +45,7 @@
             {"space": true, "chorus": false, "x_repeat": false, "lyric_line": "Царствуй на страхъ врагамъ,"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Царь православный!"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Боже, Царя храни!"}
-        ],
-        "id": "ILciOUi8kokFM3slKYU6"
+        ]
     },
     {
         "name": "Православное Содружество",
@@ -79,8 +77,7 @@
             {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "Православное содружество - это вечная борьба."},
             {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "Православное содружество не забудем никогда,"},
             {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "Православное содружество - это раз и навсегда"}
-        ],
-        "id": "Ev0iMo4zSE0b6aE2HVi5"
+        ]
     },
     {
         "name": "Гимн “Содружество Православной Молодежи”",
@@ -130,8 +127,7 @@
             {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "нет союза надежней."},
             {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "Союз сердец любовью согретых"},
             {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "Освещает весь мир наш Божественным светом!"}
-        ],
-        "id": "fD8OOkgCq92GqEwMWXRA"
+        ]
     },
     {
         "name": "А кто-то третий",
@@ -157,8 +153,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Свою судьбу, любовь найти,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Ещё трудней остаться третьим"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "На долгом жизненном пути."}
-        ],
-        "id": "0OY24Smc9e0S7KGKXLZH"
+        ]
     },
     {
         "name": "Ах ты, степь широкая",
@@ -181,8 +176,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Степь раздольная,"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Широко ты, матушка,"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Протянулася."}
-        ],
-        "id": "HEXirnIvc3Ao1CzGdntB"
+        ]
     },
     {
         "name": "Ах, вы, сени, мои сени",
@@ -233,8 +227,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Пиво пьяно на ходу,"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Пиво пьяно на ходу,"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "И на сладком на меду."}
-        ],
-        "id": "9eTYbQMffQ8XVwKratoV"
+        ]
     },
     {
         "name": "Ах, мамочка",
@@ -303,8 +296,7 @@
             {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "С Коленькой и с Яшечкой,"},
             {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "С Мишечкой и с Сашечкой"},
             {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "Ах, мамочка, зачем."}
-        ],
-        "id": "zTjm06dHHOGXKcXjxWvu"
+        ]
     },
     {
         "name": "Ах, Самара-Городок",
@@ -359,8 +351,7 @@
             {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "Беспокойная я,"},
             {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "Беспокойная я, - "},
             {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "Успокой ты меня!"}
-        ],
-        "id": "Eo8j50bGSJshD8AWn07V"
+        ]
     },
     {
         "name": "Барыня",
@@ -395,8 +386,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Можно только обниматься."},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Барыня ты моя, сударыня ты моя."},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "А-а, обниматься."}
-        ],
-        "id": "NZ7rLPRiVZTzIgaryovd"
+        ]
     },
     {
         "name": "Бывали дни веселые",
@@ -447,8 +437,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Гулял я, молодец,"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Не знал тоски-кручинушки,"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Как вольный удалец."}
-        ],
-        "id": "1tmprfhDhBlMPtsGmCcR"
+        ]
     },
     {
         "name": "Было двенадцать разбойников",
@@ -489,8 +478,7 @@
             {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "древнюю быль возвестим! "},
             {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "Так в Соловках нам рассказывал"},
             {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "инок честной Питирим."}
-        ],
-        "id": "LVaYMzE0Vzcml6rWTHG9"
+        ]
     },
     {
         "name": "В роще пел соловушка",
@@ -519,8 +507,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Песенку о счастьи и о любви"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "С чарами не справишься, век ты будешь мой"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Ой ой как ты мне нравишься, ой ой е ё ёй"}
-        ],
-        "id": "f0DhhToZyQed6ZFAu7uG"
+        ]
     },
     {
         "name": "Вдоль да по речке",
@@ -568,8 +555,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Вдоль да по Казанке"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Сизый селезень плывет."},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Ой, да люли, люли..."}
-        ],
-        "id": "hBbKPt3pbq6GhZOIP074"
+        ]
     },
     {
         "name": "Вдоль по Питерской",
@@ -614,8 +600,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Ну поцелуй!"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Ну поцелуй меня!"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Кума-душечка!"}
-        ],
-        "id": "pKZcMNSWrvChz2W8F8Qs"
+        ]
     },
     {
         "name": "Вдоль по улице метелица метёт",
@@ -638,8 +623,7 @@
             {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "Дозволь наглядеться, радость, на тебя!"},
             {"space": true, "chorus": false, "x_repeat": false, "lyric_line": "Вдоль по улице метелица метет,"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "За метелицей мой миленький идет:"}
-        ],
-        "id": "Nn2oi0yalfGGVwqnNNm9"
+        ]
     },
     {
         "name": "Виновата ли я",
@@ -668,8 +652,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Виновата ли я, что люблю,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Виновата ли я, что мой голос дрожал,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Когда пела я песню ему."}
-        ],
-        "id": "HSXvVL8ra6LZcml5mteV"
+        ]
     },
     {
         "name": "Во кузнице",
@@ -718,8 +701,7 @@
             {"space": true, "chorus": false, "x_repeat": false, "lyric_line": "Над са… над самою,"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Над са… над самою,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Над самою над бедой, над бедой."}
-        ],
-        "id": "82NvG9HcvWGB8WJe8Kit"
+        ]
     },
     {
         "name": "Во поле береза стояла",
@@ -755,8 +737,7 @@
             {"space": true, "chorus": false, "x_repeat": false, "lyric_line": "Вот тебе рогожа утрися,"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Вот тебе лопата помолися."},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Люли люли, помолися."}
-        ],
-        "id": "NmJyONeNmpAJiFK9bZ1T"
+        ]
     },
     {
         "name": "Выйду на улицу",
@@ -785,8 +766,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Красные девки свели меня с ума."},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Выйду на улицу, гляну на село,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Девчата гуляют и мне весело."}
-        ],
-        "id": "waKCYRR3FEOpJACBEfOT"
+        ]
     },
     {
         "name": "Живет моя отрада",
@@ -823,8 +803,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Да ночка потемней,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Была бы только тройка,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Да тройка порезвей!"}
-        ],
-        "id": "VtpOG66m1PCJTL49LyGU"
+        ]
     },
     {
         "name": "И кто его знает",
@@ -861,8 +840,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Не надейся и не жди,—"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Только сердце почему-то"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Сладко таяло в груди."}
-        ],
-        "id": "r0OeEXZCtF2s9ePI4goY"
+        ]
     },
     {
         "name": "Ивушки",
@@ -887,8 +865,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Деревца зелёные,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Что же вы наделали,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "На любовь ответили."}
-        ],
-        "id": "3gRQdxbatKZIND0M7lJH"
+        ]
     },
     {
         "name": "Из-за острова на стрежень",
@@ -929,8 +906,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Он красавицу княжну"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "И за борт её бросает"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "В набежавшую волну....."}
-        ],
-        "id": "WJOUiT1cGdIrlM8rdVks"
+        ]
     },
     {
         "name": "Как хотела меня мать",
@@ -967,8 +943,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Да за семого отдать."},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "А тот семый пригожий да весёлый,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Он не схотел меня брать."}
-        ],
-        "id": "opfNJooJ9va6sG4rjFRt"
+        ]
     },
     {
         "name": "Калинка",
@@ -991,8 +966,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Полюби же ты меня."},
             {"space": true, "chorus": true, "x_repeat": true, "lyric_line": "Калинка, калинка, калинка моя,"},
             {"space": false, "chorus": true, "x_repeat": true, "lyric_line": "В саду ягода-малинка, малинка моя."}
-        ],
-        "id": "3laxrYgidkLb8CUmEIf3"
+        ]
     },
     {
         "name": "Катюша",
@@ -1021,8 +995,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Уплыли туманы над рекой."},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Уходила с берега Катюша,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Уносила песеню за собой."}
-        ],
-        "id": "IkelKmT9toLDTwYY61r5"
+        ]
     },
     {
         "name": "Когда б имел златые горы",
@@ -1067,8 +1040,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "И реки, полные вина,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Всё отдал бы за ласки, взоры,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Чтоб ты владела мной одна."}
-        ],
-        "id": "4FLse3m4uZGeXQoRwu8a"
+        ]
     },
     {
         "name": "Коробушка",
@@ -1111,8 +1083,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Как поладили они."},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Распрямись ты, рожь высокая,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Тайну свято сохрани."}
-        ],
-        "id": "EBhhSuBPNv9AXqtIizRu"
+        ]
     },
     {
         "name": "Миленький ты мой",
@@ -1149,8 +1120,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "возьми меня с собой,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Там в краю далёком"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "буду тебе женой."}
-        ],
-        "id": "85HdcdeRwMhZ6yacvgPL"
+        ]
     },
     {
         "name": "Москва златоглавая",
@@ -1195,8 +1165,7 @@
             {"space": false, "chorus": true, "x_repeat": true, "lyric_line": "От мороза чуть пьяные,"},
             {"space": false, "chorus": true, "x_repeat": true, "lyric_line": "Грациозно сбивают"},
             {"space": false, "chorus": true, "x_repeat": true, "lyric_line": "Рыхлый снег с каблучка."}
-        ],
-        "id": "25nHijUCP4ZCqSpontx0"
+        ]
     },
     {
         "name": "Мурка",
@@ -1241,8 +1210,7 @@
             {"space": false, "chorus": true, "x_repeat": true, "lyric_line": "Мурка, ты мой котёночек, "},
             {"space": false, "chorus": true, "x_repeat": true, "lyric_line": "Мурка, Маруся Климова,"},
             {"space": false, "chorus": true, "x_repeat": true, "lyric_line": "Прости любимого."}
-        ],
-        "id": "HyrZg1647Qoq6vsAc6Td"
+        ]
     },
     {
         "name": "На горе колхоз",
@@ -1283,8 +1251,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "под горой совхоз,"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "А мне миленький"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "задавал вопрос."}
-        ],
-        "id": "5FSBNX0Y1jGkSHbtyeof"
+        ]
     },
     {
         "name": "Налей, налей, бокалы полней",
@@ -1329,8 +1296,7 @@
             {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "Налей, налей бокалы полней."},
             {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "И пусть наша семья соберётся тесней,"},
             {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "И пусть наша семья соберётся тесней."}
-        ],
-        "id": "lloQzUvUr7oyteqxBp1C"
+        ]
     },
     {
         "name": "Напилася я пьяна",
@@ -1369,8 +1335,7 @@
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Довела меня"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "тропка дальняя"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "до вишнёвого сада"}
-        ],
-        "id": "yNbbPMgPG3JK5kFgtyfO"
+        ]
     },
     {
         "name": "Одинокая гармонь",
@@ -1395,8 +1360,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Да не знает ее ли ты ждешь"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Что ж ты бродишь всю ночь одиноко"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Что ж ты девушкам спать не даешь"}
-        ],
-        "id": "RoobjpTQxg8wE3ibnhN3"
+        ]
     },
     {
         "name": "Однозвучно гремит колокольчик",
@@ -1421,8 +1385,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "И дорога пылится слегка."},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "И замолк мой ямщик, а дорога"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Предо мной далека, далека…"}
-        ],
-        "id": "3GdJQ2j7t8O3T9crz9LU"
+        ]
     },
     {
         "name": "Ой, цветет калина",
@@ -1455,8 +1418,7 @@
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "волю дать словам."},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Милый мой хороший,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "догадайся сам."}
-        ],
-        "id": "44STOgoRribGsSPiLoT5"
+        ]
     },
     {
         "name": "Ой, мороз, мороз",
@@ -1485,8 +1447,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "не морозь меня,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Не морозь меня,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "моего коня."}
-        ],
-        "id": "JO3mwZFPTg9rEiXJfLu3"
+        ]
     },
     {
         "name": "Ой, то не вечер",
@@ -1515,8 +1476,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Мне малым-мало спалось,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Мне малым-мало спалось,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Ох, да во сне привиделось."}
-        ],
-        "id": "MMff3MejABt4Fk7tRkR7"
+        ]
     },
     {
         "name": "По Дону гуляет",
@@ -1557,8 +1517,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "по Дону гуляет,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "По Дону гуляет"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "казак молодой."}
-        ],
-        "id": "sM0qflYJC5HWqmWL6giA"
+        ]
     },
     {
         "name": "По морям, по волнам",
@@ -1607,8 +1566,7 @@
             {"space": false, "chorus": true, "x_repeat": true, "lyric_line": "Нынче здесь, завтра там."},
             {"space": false, "chorus": true, "x_repeat": true, "lyric_line": "По морям, морям, морям, морям, эх,"},
             {"space": false, "chorus": true, "x_repeat": true, "lyric_line": "Нынче здесь, а завтра там."}
-        ],
-        "id": "DxiqZQzyL8zxemYYehyT"
+        ]
     },
     {
         "name": "Под окном черёмуха колышется",
@@ -1629,8 +1587,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "От объятий жарких, от любви,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Пусть тогда черемуха колышется"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "И поют всю ночку соловьи."}
-        ],
-        "id": "bnhxUp8X4CzduZhN4zl4"
+        ]
     },
     {
         "name": "Пойду ль, выйду ль я",
@@ -1667,8 +1624,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Пойду ль я, выйду ль я, да,"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Во дол, во долинушку, да,"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Во дол, во широкую."}
-        ],
-        "id": "kxpJaXgz6ntsN6StFxcN"
+        ]
     },
     {
         "name": "Пчелочка златая",
@@ -1737,8 +1693,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "брешешь – не помрешь, помрешь."},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Жаль, жаль, жалко мне,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "брешешь – не помрешь."}
-        ],
-        "id": "nPs7gBLQNE3BILgQu7WP"
+        ]
     },
     {
         "name": "Раз, два, люблю тебя",
@@ -1781,8 +1736,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Да со хорошей накрасуешься!"},
             {"space": true, "chorus": true, "x_repeat": true, "lyric_line": "Раз-два, люблю тебя, люблю тебя,"},
             {"space": false, "chorus": true, "x_repeat": true, "lyric_line": "Да со хорошей накрасуешься!"}
-        ],
-        "id": "xXf0Y5ikHjg4bO0gWE9G"
+        ]
     },
     {
         "name": "Родина",
@@ -1803,8 +1757,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Слышу трели соловья."},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Это русская сторонка,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Это Родина моя! "}
-        ],
-        "id": "QiwJeRM1iubf38tUfQSf"
+        ]
     },
     {
         "name": "Сизая голубка",
@@ -1869,8 +1822,7 @@
             {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "Да расслабься, Любка,"},
             {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "Хватит даже внукам,"},
             {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "Сизая голубка."}
-        ],
-        "id": "xHTDVmhB9d1XIc1dJFJZ"
+        ]
     },
     {
         "name": "Солдатушки, бравы ребятушки",
@@ -1907,8 +1859,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "А где же ваша хата?"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Наша хата – лагерь супостата,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Вот где наша хата!»"}
-        ],
-        "id": "oBYfUZn06VA83ue4AZwI"
+        ]
     },
     {
         "name": "Среди долины ровныя",
@@ -1965,8 +1916,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Все почести назад;"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Мне родину, мне милую,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Мне милой дайте взгляд!"}
-        ],
-        "id": "x1WaMKOxPDBpQgKSr8fA"
+        ]
     },
     {
         "name": "Степ, да степ кругом!",
@@ -2003,8 +1953,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Путь далек лежит."},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "В той степи глухой"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Замерзал ямщик."}
-        ],
-        "id": "go5kAc7yeCQAlx5yCdYY"
+        ]
     },
     {
         "name": "Тонкая рябина",
@@ -2037,8 +1986,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "тонкая рябина,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Головой склоняясь"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "до самого тына,"}
-        ],
-        "id": "mY3wyTHJoTDJktJoJ9OM"
+        ]
     },
     {
         "name": "У церкви стояла карета",
@@ -2071,8 +2019,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Там пышная свадьба была,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Все гости нарядно одеты,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Невеста всех краше была."}
-        ],
-        "id": "0gEZtXdDj0MlcTBD48le"
+        ]
     },
     {
         "name": "Шумел камыш",
@@ -2105,8 +2052,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "А ночка темная была."},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Одна возлюбленная пара"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Всю ночь гуляла до утра."}
-        ],
-        "id": "kGsAGsPkf0OurDK0FOlU"
+        ]
     },
     {
         "name": "Эй, Ухнем!",
@@ -2145,8 +2091,7 @@
             {"space": true, "chorus": false, "x_repeat": false, "lyric_line": "Эй, ухнем, эй, ухнем!"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Еще разик, еще раз!"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Эй, ухнем, ей, ухнем! "}
-        ],
-        "id": "TKCX4uEaeqH4ROWqKkB2"
+        ]
     },
     {
         "name": "Каким ты был",
@@ -2179,8 +2124,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Умчался вдаль казак лихой"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Каким ты был таким ты и остался"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Но ты и дорог мне такой"}
-        ],
-        "id": "BJQO4qwgCYXz3NFRzrF4"
+        ]
     },
     {
         "name": "Когда мы были на войне",
@@ -2217,8 +2161,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Но видно смерть не для меня"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "И снова конь мой вороной"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Меня выносит из огня"}
-        ],
-        "id": "PcKTAmU8kyBo4E3LfYQT"
+        ]
     },
     {
         "name": "Любо, братцы, любо",
@@ -2259,8 +2202,7 @@
             {"space": false, "chorus": true, "x_repeat": true, "lyric_line": "любо, братцы, жить,"},
             {"space": false, "chorus": true, "x_repeat": true, "lyric_line": "С нашим атаманом"},
             {"space": false, "chorus": true, "x_repeat": true, "lyric_line": "не приходится тужить!"}
-        ],
-        "id": "LPxxjSusZLRFJzyk8EkG"
+        ]
     },
     {
         "name": "Не для меня",
@@ -2295,8 +2237,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Такая жизнь, брат, ждёт меня."},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "И кровь горячая прольёться."},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Такая жизнь, брат, ждёть меня"}
-        ],
-        "id": "uYOU38GRLmxkSBg5fv2k"
+        ]
     },
     {
         "name": "Ойся, ты ойся (Казачья молитва)",
@@ -2353,8 +2294,7 @@
             {"space": false, "chorus": true, "x_repeat": true, "lyric_line": "Ты меня не бойся,"},
             {"space": false, "chorus": true, "x_repeat": true, "lyric_line": "Я тебя не трону,"},
             {"space": false, "chorus": true, "x_repeat": true, "lyric_line": "Ты не беспокойся."}
-        ],
-        "id": "z3xl0z1l8nEaONV8A6eX"
+        ]
     },
     {
         "name": "Ойся, ты ойся (Kavkazkaya)",
@@ -2383,8 +2323,7 @@
             {"space": false, "chorus": true, "x_repeat": true, "lyric_line": "Ты меня не бойся,"},
             {"space": false, "chorus": true, "x_repeat": true, "lyric_line": "Я тебя не трону,"},
             {"space": false, "chorus": true, "x_repeat": true, "lyric_line": "Ты не беспокойся."}
-        ],
-        "id": "Op22xIlEUQEi3GdxdNMX"
+        ]
     },
     {
         "name": "Ой, при лужку, при лужке",
@@ -2429,8 +2368,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Вся станица знала,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Как дивчина казака"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Крепко целовала."}
-        ],
-        "id": "Wk9HraWr1BLh0ZTvfyhA"
+        ]
     },
     {
         "name": "По горам Карпатским",
@@ -2467,8 +2405,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "метелица вьётся,"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Лютые морозы"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "чудовище творят."}
-        ],
-        "id": "bdulskn44CkV2Kjicj0J"
+        ]
     },
     {
         "name": "Под окном высоким",
@@ -2507,8 +2444,7 @@
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Мимо этой вишни,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Мимо этой хаты"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Парень бравый в первый раз идёт."}
-        ],
-        "id": "gimo0BwehFHpy4yctoXO"
+        ]
     },
     {
         "name": "Поезд уходит далеко",
@@ -2533,8 +2469,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Скажем друг другу: «Прощай!"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Если не встретимся – вспомни,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Если приеду – встречай!»"}
-        ],
-        "id": "4V5mY2BoQi493G4Evzl3"
+        ]
     },
     {
         "name": "Там шли два брата",
@@ -2579,8 +2514,7 @@
             {"space": true, "chorus": false, "x_repeat": false, "lyric_line": "Там шли, шли, два брата"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "С турецкого фронта,"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "С турецкого фронта домой."}
-        ],
-        "id": "BAMhGoKWPfDZWxGGYNNz"
+        ]
     },
     {
         "name": "Черный ворон",
@@ -2621,8 +2555,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Что ж ты вьёшься надо мной,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Ты добычи не дождёшься,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Чёрный ворон, я не твой."}
-        ],
-        "id": "bAklNnRFoC43RjFqQHaw"
+        ]
     },
     {
         "name": "Андрюша",
@@ -2667,8 +2600,7 @@
             {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "Ворвался ветер, кудри теребя."},
             {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "Поиграй, чтобы ласковые очи"},
             {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "Не спросясь глядели на тебя."}
-        ],
-        "id": "pInoJ2kMGoaY034a1M4a"
+        ]
     },
     {
         "name": "Бородино",
@@ -2712,8 +2644,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Уж мы пойдем ломить стеною,"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "Уж постоим мы головою"},
             {"space": false, "chorus": false, "x_repeat": true, "lyric_line": "За родину свою!"}
-        ],
-        "id": "0XsDx14SKgcL9ebSAu5G"
+        ]
     },
     {
         "name": "В землянке",
@@ -2738,8 +2669,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Заплутавшее счастье зови."},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Мне в холодной землянке тепло"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "От моей негасимой любви. "}
-        ],
-        "id": "yOS62xtaty5GmgXOroOg"
+        ]
     },
     {
         "name": "В лесу прифронтовом",
@@ -2796,8 +2726,7 @@
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "И, словно в забытьи,"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Сидят и слушают бойцы -"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Товарищи мои."}
-        ],
-        "id": "GH1u8MZLDYwiBUyqUI1O"
+        ]
     },
     {
         "name": "Вечер на рейде",
@@ -2833,8 +2762,7 @@
             {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"И ранней порой"},
             {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Мелькнет за кормой"},
             {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Знакомый платок голубой."}
-        ],
-        "id": "LE2Ackt8yMN5wfOi791U"
+        ]
     },
     {
         "name": "Взвейтесь соколы орлами",
@@ -2879,8 +2807,7 @@
             {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Полно горе горевать."},
             {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"То ли дело – под шатрами"},
             {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"В поле лагерем стоять."}
-        ],
-        "id": "XWRxLne012ZSEjzTIOSm"
+        ]
     },
     {
         "name": "Встань за Веру, Русская земля!",
@@ -2925,8 +2852,7 @@
             {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Мы вновь встанем в строй"},
             {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"И все пойдем в священный бой."},
             {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Встань за Веру, Русская земля!"}
-        ],
-        "id": "c1xAchI9rXekhKfKrkB9"
+        ]
     },
     {
         "name": "Грустные ивы",
@@ -2959,8 +2885,7 @@
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"В эти вернулись края…"},
             {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"Ночью на тихой заставе огни"},
             {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"Вновь зажигают друзья."}
-        ],
-        "id": "uCQzQfPhSHHVlj1DAjr2"
+        ]
     },
     {
         "name": "Журавли",
@@ -2989,8 +2914,7 @@
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"С кровавых не пришедшие полей,"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Не в землю нашу полегли когда-то,"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"А превратились в белых журавлей."}
-        ],
-        "id": "VmexKc7P6UB8ZVWe9ODm"
+        ]
     },
     {
         "name": "Синий платочек",
@@ -3027,8 +2951,7 @@
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Желаных, Любимых таких!"},
             {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"Страчит пулеметчик за синий платочек,"},
             {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"Что был на плечах дорогих!"}
-        ],
-        "id": "UjN9XQQzvEniyhblUCdO"
+        ]
     },
     {
         "name": "Соловей, соловей, пташечка",
@@ -3061,8 +2984,7 @@
             {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"Канареечка жалобно поет."},
             {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"Эй, раз! Эй, два! Горе – не беда,"},
             {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"Канареечка жалобно поет."}
-        ],
-        "id": "gbPMOGiAvUfh5oWXGykx"
+        ]
     },
     {
         "name": "Темная ночь",
@@ -3103,8 +3025,7 @@
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"ты любимая знаю не спишь"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"И поэтому знаю со мной"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"ничего не случится"}
-        ],
-        "id": "UriwKj4DtFcJDefJWCKh"
+        ]
     },
     {
         "name": "Вечерний звон",
@@ -3153,8 +3074,7 @@
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"вечерний звон!"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Как много дум"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"наводит он."}
-        ],
-        "id": "0KWRQ0T3YYahMyLesFc9"
+        ]
     },
     {
         "name": "Домик стоит над рекою",
@@ -3211,8 +3131,7 @@
             {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Верила – верила я,"},
             {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Но никогда не поверю,"},
             {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Что ты разлюбишь меня."}
-        ],
-        "id": "GKnN8ywRO4keL7nB5iiZ"
+        ]
     },
     {
         "name": "Дорогой длинною",
@@ -3257,8 +3176,7 @@
             {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"да с семиструнною,"},
             {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Что по ночам"},
             {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"так мучила меня."}
-        ],
-        "id": "eqOXiRKO9uJiV5M3Onc4"
+        ]
     },
     {
         "name": "Малиновый звон",
@@ -3291,8 +3209,7 @@
             {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Скажи моей милой земле,"},
             {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Что я в неё с детства влюблён,"},
             {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Как в этот малиновый звон."}
-        ],
-        "id": "bR3LqaHn5F0CNiwJDo8I"
+        ]
     },
     {
         "name": "Очи черные",
@@ -3317,8 +3234,7 @@
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Очи страстные и прекрасные."},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Вы сгубили меня, очи страстные,"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Унесли навек моё счастие…"}
-        ],
-        "id": "3DTSKd0dRTlY8sRftTqf"
+        ]
     },
     {
         "name": "Подмосковные вечера",
@@ -3343,8 +3259,7 @@
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Так пожалуйста, будь добра,"},
             {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"Не забудь и ты эти летние"},
             {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"Подмосковные вечера. "}
-        ],
-        "id": "TgZVuehkydQQzjfX8k9C"
+        ]
     },
     {
         "name": "Роза",
@@ -3363,8 +3278,7 @@
             {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"Не рвите розы в семнадцать лет"},
             {"space":true,"chorus":false,"x_repeat":true,"lyric_line":"Розы прекрасны, розы нежны"},
             {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"Их ароматы всем нам нужны"}
-        ],
-        "id": "SnOztOvTgoJc3hBkky3O"
+        ]
     },
     {
         "name": "Что может быть лучше России",
@@ -3405,8 +3319,7 @@
             {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"Где мать ждёт всегда сыновей,"},
             {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"Что может быть лучше России,"},
             {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"Судьбы и надежды моей. "}
-        ],
-        "id": "LsmXTUTjuysLcGkQxzEa"
+        ]
     },
     {
         "name": "Эх, дороги",
@@ -3458,8 +3371,7 @@
             {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Пыль да туман,"},
             {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Холода, тревоги"},
             {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Да степной бурьян."}
-        ],
-        "id": "KFZ4xZZYmi5ehCnMG7CQ"
+        ]
     },
     {
         "name": "Черные глаза",
@@ -3520,8 +3432,7 @@
             {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Чёрные глаза"},
             {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Чёрные глаза"},
             {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Чёрные глаза"}
-        ],
-        "id": "7Juvrzp967E8kO6Pzm0v"
+        ]
     },
     {
         "name": "Как молоды мы были",
@@ -3591,8 +3502,7 @@
             {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"как молоды мы были,"},
             {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Как искренне любили,"},
             {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"как верили в себя"}
-        ],
-        "id": "A2H6vN1AHrakBd8vjG8y"
+        ]
     },
     {
         "name": "Миллион алых роз",
@@ -3650,8 +3560,7 @@
             {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"кто влюблен и всерьез"},
             {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Свою жизнь для тебя"},
             {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"превратит в цветы"}
-        ],
-        "id": "cbBA9LhsiZcJUIGg5IAt"
+        ]
     },
     {
         "name": "Надежда",
@@ -3697,8 +3606,7 @@
             {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"А удача - награда за смелость,"},
             {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"А песни довольно одной,"},
             {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Чтоб только о доме в ней пелось."}
-        ],
-        "id": "fphuVZ2O4OfhLZSAzu4M"
+        ]
     },
     {
         "name": "Осень",
@@ -3738,8 +3646,7 @@
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Осень, что я знал о тебе."},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Сколько будет рваться листва,"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Осень вечно права."}
-        ],
-        "id": "62EgWDCsof93Z8KStT84"
+        ]
     },
     {
         "name": "Качка",
@@ -3777,8 +3684,7 @@
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"И бушует ураган"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Ты приходи ко мне, морячка"},
             {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"Я тебе любовь отдам"}
-        ],
-        "id": "IS1Ula4VfvWbqfaLYOaa"
+        ]
     },
     {
         "name": "Районы-кварталы",
@@ -3787,8 +3693,7 @@
         "music_by": "",
         "lyrics_by": "",
         "youtube_id": "",
-        "lyrics": [],
-        "id": "msHivqxQjUbcEcAhI5f0"
+        "lyrics": []
     },
     {
         "name": "Трава у дома",
@@ -3797,8 +3702,7 @@
         "music_by": "",
         "lyrics_by": "",
         "youtube_id": "",
-        "lyrics": [],
-        "id": "Mma31Xs9nXEUf0inFVi0"
+        "lyrics": []
     },
     {
         "name": "Комарово",
@@ -3807,8 +3711,7 @@
         "music_by": "",
         "lyrics_by": "",
         "youtube_id": "",
-        "lyrics": [],
-        "id": "tslHBWmgRjhQKGFsUYBO"
+        "lyrics": []
     },
     {
         "name": "Звезда по имени Солнце",
@@ -3817,8 +3720,7 @@
         "music_by": "",
         "lyrics_by": "",
         "youtube_id": "",
-        "lyrics": [],
-        "id": "gNjYuGDhayQZ3hbIkqcB"
+        "lyrics": []
     },
     {
         "name": "Березы",
@@ -3827,8 +3729,7 @@
         "music_by": "",
         "lyrics_by": "",
         "youtube_id": "",
-        "lyrics": [],
-        "id": "c3lUxC0rUNGOPtIUudkL"
+        "lyrics": []
     },
     {
         "name": "Главное - что есть ты у меня",
@@ -3837,8 +3738,7 @@
         "music_by": "",
         "lyrics_by": "",
         "youtube_id": "",
-        "lyrics": [],
-        "id": "FUySFDX8bwOonON1EHSs"
+        "lyrics": []
     },
     {
         "name": "Комбат",
@@ -3847,8 +3747,7 @@
         "music_by": "",
         "lyrics_by": "",
         "youtube_id": "",
-        "lyrics": [],
-        "id": "1AEO9L3YD8qPVCy7OtL8"
+        "lyrics": []
     },
     {
         "name": "Конь",
@@ -3857,8 +3756,7 @@
         "music_by": "",
         "lyrics_by": "",
         "youtube_id": "",
-        "lyrics": [],
-        "id": "0bWX2nsHybaXqLbkuhah"
+        "lyrics": []
     },
     {
         "name": "Младшая сестрёнка",
@@ -3867,8 +3765,7 @@
         "music_by": "",
         "lyrics_by": "",
         "youtube_id": "",
-        "lyrics": [],
-        "id": "yuLLZ2SyBtNqFfffzCqe"
+        "lyrics": []
     },
     {
         "name": "Позови меня тихо по имени",
@@ -3877,8 +3774,7 @@
         "music_by": "",
         "lyrics_by": "",
         "youtube_id": "",
-        "lyrics": [],
-        "id": "EGYwBEQCVmWSbujPJFZf"
+        "lyrics": []
     },
     {
         "name": "Там за туманами",
@@ -3887,16 +3783,14 @@
         "music_by": "",
         "lyrics_by": "",
         "youtube_id": "",
-        "lyrics": [],
-        "id": "LcftGVFxKLbD6TWRpJH5"
+        "lyrics": []
     },
     {
         "name": "Ликуй и пой Земля",
         "performing_artist": "Надежда Кадышева",
         "category": "Авторские Песни",
         "youtube_id": "",
-        "lyrics": [],
-        "id": "LcftGVFxKLbD6TWRpJH5"
+        "lyrics": []
     },
     {
         "name": "Крапива лебеда",
@@ -3905,8 +3799,7 @@
         "music_by": "",
         "lyrics_by": "",
         "youtube_id": "",
-        "lyrics": [],
-        "id": "LcftGVFxKLbD6TWRpJH5"
+        "lyrics": []
     },
     {
         "name": "Ромашка белая",
@@ -3915,8 +3808,7 @@
         "music_by": "",
         "lyrics_by": "",
         "youtube_id": "",
-        "lyrics": [],
-        "id": "LcftGVFxKLbD6TWRpJH5"
+        "lyrics": []
     },
     {
         "name": "Морячка",
@@ -3925,8 +3817,7 @@
         "music_by": "",
         "lyrics_by": "",
         "youtube_id": "",
-        "lyrics": [],
-        "id": "LcftGVFxKLbD6TWRpJH5"
+        "lyrics": []
     },
     {
         "name": "Как здорово что все мы здесь",
@@ -3935,8 +3826,7 @@
         "music_by": "",
         "lyrics_by": "",
         "youtube_id": "",
-        "lyrics": [],
-        "id": "LcftGVFxKLbD6TWRpJH5"
+        "lyrics": []
     },
     {
         "name": "На теплоходе музыка играет",
@@ -3945,8 +3835,7 @@
         "music_by": "",
         "lyrics_by": "",
         "youtube_id": "",
-        "lyrics": [],
-        "id": "LcftGVFxKLbD6TWRpJH5"
+        "lyrics": []
     },
     {
         "name": "Тополя",
@@ -3955,8 +3844,7 @@
         "music_by": "",
         "lyrics_by": "",
         "youtube_id": "",
-        "lyrics": [],
-        "id": "LcftGVFxKLbD6TWRpJH5"
+        "lyrics": []
     },
     {
         "name": "Вологда",
@@ -3965,8 +3853,7 @@
         "music_by": "",
         "lyrics_by": "",
         "youtube_id": "",
-        "lyrics": [],
-        "id": "LcftGVFxKLbD6TWRpJH5"
+        "lyrics": []
     },
     {
         "name": "За тихой рекою",
@@ -3975,8 +3862,7 @@
         "music_by": "",
         "lyrics_by": "",
         "youtube_id": "",
-        "lyrics": [],
-        "id": "LcftGVFxKLbD6TWRpJH5"
+        "lyrics": []
     },
     {
         "name": "Хуторянка",
@@ -3985,8 +3871,7 @@
         "music_by": "",
         "lyrics_by": "",
         "youtube_id": "",
-        "lyrics": [],
-        "id": "LcftGVFxKLbD6TWRpJH5"
+        "lyrics": []
     },
     {
         "name": "Мы желаем счастья вам",
@@ -3995,8 +3880,7 @@
         "music_by": "",
         "lyrics_by": "",
         "youtube_id": "",
-        "lyrics": [],
-        "id": "LcftGVFxKLbD6TWRpJH5"
+        "lyrics": []
     },
     {
         "name": "Девушка по городу",
@@ -4005,8 +3889,7 @@
         "music_by": "",
         "lyrics_by": "",
         "youtube_id": "",
-        "lyrics": [],
-        "id": "LcftGVFxKLbD6TWRpJH5"
+        "lyrics": []
     },
     {
         "name": "Белые розы",
@@ -4015,8 +3898,7 @@
         "music_by": "",
         "lyrics_by": "",
         "youtube_id": "",
-        "lyrics": [],
-        "id": "LcftGVFxKLbD6TWRpJH5"
+        "lyrics": []
     },
     {
         "name": "Детство",
@@ -4025,8 +3907,7 @@
         "music_by": "",
         "lyrics_by": "",
         "youtube_id": "",
-        "lyrics": [],
-        "id": "LcftGVFxKLbD6TWRpJH5"
+        "lyrics": []
     },
     {
         "name": "Там за туманами",
@@ -4035,7 +3916,6 @@
         "music_by": "",
         "lyrics_by": "",
         "youtube_id": "",
-        "lyrics": [],
-        "id": "LcftGVFxKLbD6TWRpJH5"
+        "lyrics": []
     }
 ]
