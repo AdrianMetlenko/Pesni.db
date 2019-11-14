@@ -4584,7 +4584,40 @@
         "music_by": "",
         "lyrics_by": "",
         "youtube_id": "",
-        "lyrics": []
+        "lyrics": [
+            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Немного теплее за стеклом,"},
+            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"но злые моpозы"},
+            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Вхожу в эти двеpи,"},
+            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"словно в сад июльских цветов"},
+            {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"Я их так хочу согpеть теплом,"},
+            {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"но белые pозы"},
+            {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"У всех на глазах"},
+            {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"я целовать и гладить готов"},
+            {"space":true,"chorus":true,"x_repeat":false,"lyric_line":"Белые pозы, белые pозы,"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"беззащитны шипы"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Что с ними сделал снег и моpозы,"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"лед витpин голубых"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Люди укpасят вами свой пpаздник"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"лишь на несколько дней"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"И оставляют вас умиpать"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"на белом, холодном окне"},
+            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"А люди уносят вас с собой"},
+            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"и вечеpом поздним"},
+            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Пусть пpаздничный свет наполнит в миг"},
+            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"все окна двоpов"},
+            {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"Кто выдумал вас pастить зимой,"},
+            {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"о, белые pозы"},
+            {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"И в миp уводить жестоких вьюг,"},
+            {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"холодных ветpов"},
+            {"space":true,"chorus":true,"x_repeat":false,"lyric_line":"Белые pозы, белые pозы,"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"беззащитны шипы"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Что с ними сделал снег и моpозы,"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"лед витpин голубых"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Люди укpасят вами свой пpаздник"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"лишь на несколько дней"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"И оставляют вас умиpать"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"на белом, холодном окне"}
+        ]
     },
     {
         "name": "Детство",
@@ -4593,12 +4626,333 @@
         "music_by": "",
         "lyrics_by": "",
         "youtube_id": "",
+        "lyrics": [
+            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Детство, детство, ты куда бежишь"},
+            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Детство, детство, ты куда спешишь"},
+            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Не наигрался я еще с тобой"},
+            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Детство, детство, ты куда ? Постой."},
+            {"space":true,"chorus":false,"x_repeat":true,"lyric_line":"А я хочу, а я хочу опять"},
+            {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"По крышам бегать, голубей гонять"},
+            {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"Дразнить Наташку, дергать за косу"},
+            {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"На самокате мчаться по двору"},
+            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Старушку искоса на нас глядят"},
+            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Не узнают вчерашних забияк"},
+            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"А мы с Наташкой по двору идем"},
+            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"И нет нам дела больше ни о чем"},
+            {"space":true,"chorus":false,"x_repeat":true,"lyric_line":"А я хочу, а я хочу опять"},
+            {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"По крышам бегать, голубей гонять"},
+            {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"Дразнить Наташку, дергать за косу"},
+            {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"На самокате мчаться по двору"},
+            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Детство, детство, ты куда ушло"},
+            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Где уютный уголок нашло"},
+            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Детства милого мне не догнать"},
+            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Остается с грустью вспоминать"},
+            {"space":true,"chorus":false,"x_repeat":true,"lyric_line":"А я хочу, а я хочу опять"},
+            {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"По крышам бегать, голубей гонять"},
+            {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"Дразнить Наташку, дергать за косу"},
+            {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"На самокате мчаться по двору"}
+        ]
+    },
+    {
+        "name": "Александра",
+        "category": "Из Кинофильмов",
+        "music_by": "С. Никитин",
+        "lyrics_by": "Ю. Визбор Д. Сухарев",
+        "youtube_id": "",
         "lyrics": []
     },
     {
-        "name": "Там за туманами",
-        "performing_artist": "Любэ",
+        "name": "Разговор со счастьем",
         "category": "Из Кинофильмов",
+        "music_by": "Зацепин А.",
+        "lyrics_by": "Дербенев Л.",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Смуглянка-молдаванка",
+        "category": "Из Кинофильмов",
+        "music_by": "Новиков А.",
+        "lyrics_by": "Шведов Я.",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Cтарый клен",
+        "category": "Из Кинофильмов",
+        "music_by": "Пахмутова А.",
+        "lyrics_by": "Матусовский М.",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Вместе весело шагать",
+        "category": "Детские Песни",
+        "music_by": "",
+        "lyrics_by": "",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Голубой вагон",
+        "category": "Детские Песни",
+        "music_by": "",
+        "lyrics_by": "",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Кабы не было зимы",
+        "category": "Детские Песни",
+        "music_by": "",
+        "lyrics_by": "",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Крылатые качели",
+        "category": "Детские Песни",
+        "music_by": "Крылатов Е.",
+        "lyrics_by": "Энтин Ю.",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Песенка друзей",
+        "category": "Детские Песни",
+        "music_by": "Гладков Г.",
+        "lyrics_by": "Энтин Ю.",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Прекрасное далеко",
+        "category": "Детские Песни",
+        "music_by": "Крылатов Е.",
+        "lyrics_by": "Энтин Ю.",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Пусть бегут неуклюже",
+        "category": "Детские Песни",
+        "music_by": "Шаинский В.",
+        "lyrics_by": "Тимофеев А.",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Серенада Трубадура",
+        "category": "Детские Песни",
+        "music_by": "Гладков Г.",
+        "lyrics_by": "Энтин Ю.",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Спят усталые игрушки",
+        "category": "Детские Песни",
+        "music_by": "Островский А.",
+        "lyrics_by": "Петрова З.",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Улыбка",
+        "category": "Детские Песни",
+        "music_by": "Островский А.",
+        "lyrics_by": "Петрова З.",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Висить ябко, висить",
+        "category": "Украинские Песни",
+        "music_by": "",
+        "lyrics_by": "",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Горіла сосна палала",
+        "category": "Украинские Песни",
+        "music_by": "",
+        "lyrics_by": "",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Засвистали козаченьки",
+        "category": "Украинские Песни",
+        "music_by": "",
+        "lyrics_by": "",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Їхав козак за Дунай",
+        "category": "Украинские Песни",
+        "music_by": "",
+        "lyrics_by": "",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Несе Галя воду",
+        "category": "Украинские Песни",
+        "music_by": "",
+        "lyrics_by": "",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Одна Калина",
+        "category": "Украинские Песни",
+        "music_by": "",
+        "lyrics_by": "",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Ой хмариться, туманиться",
+        "category": "Украинские Песни",
+        "music_by": "",
+        "lyrics_by": "",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Ой, в вишнёвом саду",
+        "category": "Украинские Песни",
+        "music_by": "",
+        "lyrics_by": "",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Розпрягайте, хлопці, коні",
+        "category": "Украинские Песни",
+        "music_by": "",
+        "lyrics_by": "",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Ти ж мене підманула",
+        "category": "Украинские Песни",
+        "music_by": "",
+        "lyrics_by": "",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Червона рута",
+        "category": "Украинские Песни",
+        "music_by": "",
+        "lyrics_by": "",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Братка Беларус",
+        "category": "Белорусские Песни",
+        "music_by": "",
+        "lyrics_by": "",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Купалiнка",
+        "category": "Белорусские Песни",
+        "music_by": "",
+        "lyrics_by": "",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Три ангела",
+        "category": "Белорусские Песни",
+        "music_by": "",
+        "lyrics_by": "",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Всего то навсего",
+        "category": "Православные Песни",
+        "music_by": "мон. Иулиания (Денисова)",
+        "lyrics_by": "прот. А. Логвинова",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Вьюн над водой",
+        "category": "Православные Песни",
+        "music_by": "",
+        "lyrics_by": "Ивана Козлова",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Дни мои",
+        "category": "Православные Песни",
+        "music_by": "мон. Иулиания (Денисова)",
+        "lyrics_by": "прот. А. Логвинова",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Житейское море",
+        "category": "Православные Песни",
+        "music_by": "",
+        "lyrics_by": "",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Молитва",
+        "category": "Православные Песни",
+        "music_by": "",
+        "lyrics_by": "Лермонтов",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Соловей",
+        "category": "Православные Песни",
+        "music_by": "Архидиакон Роман (Тамберг)",
+        "lyrics_by": "",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Hej, sokoły",
+        "category": "Разные Песни",
+        "music_by": "",
+        "lyrics_by": "",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Челита",
+        "category": "Разные Песни",
+        "music_by": "",
+        "lyrics_by": "",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Moscow",
+        "performing_artist": "Genghis Kahn",
+        "category": "Авторские Песни",
+        "music_by": "",
+        "lyrics_by": "",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Those Were The Days",
+        "category": "Разные Песни",
         "music_by": "",
         "lyrics_by": "",
         "youtube_id": "",
