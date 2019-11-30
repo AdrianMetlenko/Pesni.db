@@ -301,7 +301,6 @@
     {
         "name": "Ах, Самара-Городок",
         "category": "Народные Песни",
-        "youtube_id": "V4mN61UB9yY",
         "lyrics": [
             {"space": true, "chorus": false, "x_repeat": false, "lyric_line": "Платок тонет и не тонет,"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Потихонечку плывет, - "},
@@ -1701,7 +1700,6 @@
     {
         "name": "Сизая голубка",
         "category": "Народные Песни",
-        "youtube_id": "DusxOGklKxQ",
         "lyrics": [
             {"space": true, "chorus": false, "x_repeat": false, "lyric_line": "Что ты веселишься,"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Милый мой дедочек,"},
@@ -1764,7 +1762,6 @@
     {
         "name": "Солдатушки, бравы ребятушки",
         "category": "Народные Песни",
-        "youtube_id": "bCHr5gCvCcQ",
         "lyrics": [
             {"space": true, "chorus": false, "x_repeat": false, "lyric_line": "Солдатушки, браво-ребятушки,"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Где же ваши деды?"},
@@ -2054,7 +2051,6 @@
     {
         "name": "Когда мы были на войне",
         "category": "Казачьи Песни",
-        "youtube_id": "mHCwjHhUvIc",
         "lyrics": [
             {"space": true, "chorus": false, "x_repeat": false, "lyric_line": "Когда мы были на войне,"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Когда мы были на войне,"},
@@ -2089,7 +2085,6 @@
     {
         "name": "Любо, братцы, любо",
         "category": "Казачьи Песни",
-        "youtube_id": "cImjwSl6kl0",
         "lyrics": [
             {"space": true, "chorus": false, "x_repeat": false, "lyric_line": "Как на быстрый Терек, на высокий берег"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Вывели казаки сорок тысяч лошадей,"},
@@ -2218,7 +2213,6 @@
     {
         "name": "Ойся, ты ойся (Кавказская)",
         "category": "Казачьи Песни",
-        "youtube_id": "uJv4MGoHj60",
         "lyrics": [
             {"space": true, "chorus": false, "x_repeat": false, "lyric_line": "На Кавказе есть гора"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "самая высокая,"},
@@ -2245,7 +2239,6 @@
     {
         "name": "Ой, при лужку, при лужке",
         "category": "Казачьи Песни",
-        "youtube_id": "mCxb2GRXF8c",
         "lyrics": [
             {"space": true, "chorus": false, "x_repeat": false, "lyric_line": "Ой при лужку, при лужке,"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "При широком поле."},
@@ -2288,7 +2281,6 @@
     {
         "name": "По горам Карпатским",
         "category": "Казачьи Песни",
-        "youtube_id": "hsiXyUtIJWY",
         "lyrics": [
             {"space": true, "chorus": false, "x_repeat": false, "lyric_line": "По горам Карпатским"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "метелица вьётся,"},
@@ -2383,7 +2375,6 @@
     {
         "name": "Там шли два брата",
         "category": "Казачьи Песни",
-        "youtube_id": "7n_dgWkumrA",
         "lyrics": [
             {"space": true, "chorus": false, "x_repeat": false, "lyric_line": "Там шли, шли, два брата"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "С турецкого фронта,"},
@@ -3155,7 +3146,6 @@
     {
         "name": "Роза",
         "category": "Русские Романсы",
-        "youtube_id": "L4NhvYGBl50",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":true,"lyric_line":"Я встретил розу, роза цвела"},
             {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"Шипов колючих роза полна"},
@@ -3936,7 +3926,6 @@
         "category": "Авторские Песни",
         "music_by": "Матвиенко И.",
         "lyrics_by": "Пеленягрэ В.",
-        "youtube_id": "YpYwlO3PuqQ",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Позови меня тихо по имени,"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Ключевой водой напои меня,"},
@@ -4110,7 +4099,6 @@
         "category": "Авторские Песни",
         "music_by": "Газманов О.",
         "lyrics_by": "Газманов О.",
-        "youtube_id": "FShrq227C98",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Над морскою тишиной"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Над крутою над волной"},
@@ -4321,7 +4309,6 @@
         "name": "За тихой рекою",
         "performing_artist": "Сергей Трофимов",
         "category": "Авторские Песни",
-        "youtube_id": "E-ZbpjxFcZw",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"За тихой рекою, в берёзовой роще"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Распустится первый весенний цветок."},
@@ -4459,7 +4446,6 @@
         "name": "Белые розы",
         "performing_artist": "Юрий Шатунов",
         "category": "Авторские Песни",
-        "youtube_id": "DBBxjuLBK9Y",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Немного теплее за стеклом,"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"но злые моpозы"},
@@ -4499,7 +4485,6 @@
         "name": "Детство",
         "performing_artist": "Юрий Шатунов",
         "category": "Авторские Песни",
-        "youtube_id": "181WjlOLUIA",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Детство, детство, ты куда бежишь"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Детство, детство, ты куда спешишь"},
@@ -4638,7 +4623,6 @@
         "category": "Из Кинофильмов",
         "music_by": "Новиков А.",
         "lyrics_by": "Шведов Я.",
-        "youtube_id": "8p7dJN2UjAw",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Как-то летом на рассвете"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Заглянул в соседний сад,"},
@@ -4796,7 +4780,6 @@
     {
         "name": "Кабы не было зимы",
         "category": "Детские Песни",
-        "youtube_id": "n6BnKF6LmW0",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Кабы не было зимы"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"В городах и селах —"},
@@ -5027,7 +5010,6 @@
         "category": "Детские Песни",
         "music_by": "Островский А.",
         "lyrics_by": "Петрова З.",
-        "youtube_id": "NBLssEOTEr8",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"От улыбки хмурый день светлей,"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"От улыбки в небе радуга проснётся,"},
@@ -5155,7 +5137,6 @@
     {
         "name": "Їхав козак за Дунай",
         "category": "Украинские Песни",
-        "youtube_id": "dqCA-s91TUU",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Їхав козак за Дунай,"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"сказав: «Дівчино, прощай!"},
@@ -5194,7 +5175,6 @@
     {
         "name": "Несе Галя воду",
         "category": "Украинские Песни",
-        "youtube_id": "q9J1chRYqdg",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Несе Галя воду,"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"коромисло гнеться."},
@@ -5392,7 +5372,6 @@
     {
         "name": "Ти ж мене підманула",
         "category": "Украинские Песни",
-        "youtube_id": "gdPvaIXxm4Q",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Ти казала в понедiлок -"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"пiдем разом по барвiнок."},
@@ -5858,66 +5837,66 @@
         "category": "Разные Песни",
         "youtube_id": "vSPg5IAz920",
         "lyrics": [
-            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Hej, tam gdzieś z nad czarnej wody"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Wsiada na koń kozak młody."},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Czule żegna się z dziewczyną,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Jeszcze czulej z Ukrainą."},
-            {"space":true,"chorus":true,"x_repeat":true,"lyric_line":"Hej, hej, hej sokoły"},
-            {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Omijajcie góry, lasy, doły."},
-            {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Dzwoń, dzwoń, dzwoń dzwoneczku,"},
-            {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Mój stepowy skowroneczku."},
-            {"space":true,"chorus":true,"x_repeat":true,"lyric_line":"Hej, hej, hej sokoły"},
-            {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Omijajcie góry, lasy, doły."},
-            {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Dzwoń, dzwoń, dzwoń dzwoneczku,"},
-            {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Mój stepowy Dzwoń, dzwoń, dzwoń"},
-            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Wiele dziewcząt jest na świecie,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Lecz najwięcej w Ukrainie."},
+            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Hej, tam gdzieś z nad czarnej wody"},
+            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Wsiada na koń kozak młody."},
+            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Czule żegna się z dziewczyną,"},
+            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Jeszcze czulej z Ukrainą."},
+            {"space":true,"chorus":true,"x_repeat":false,"lyric_line":"Hej, hej, hej sokoły"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Omijajcie góry, lasy, doły."},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Dzwoń, dzwoń, dzwoń dzwoneczku,"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Mój stepowy skowroneczku."},
+            {"space":true,"chorus":true,"x_repeat":false,"lyric_line":"Hej, hej, hej sokoły"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Omijajcie góry, lasy, doły."},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Dzwoń, dzwoń, dzwoń dzwoneczku,"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Mój stepowy Dzwoń, dzwoń, dzwoń"},
+            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Wiele dziewcząt jest na świecie,"},
+            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Lecz najwięcej w Ukrainie."},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Tam me serce pozostało,"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Przy kochanej mej dziewczynie."},
-            {"space":true,"chorus":true,"x_repeat":true,"lyric_line":"Hej, hej, hej sokoły"},
-            {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Omijajcie góry, lasy, doły."},
-            {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Dzwoń, dzwoń, dzwoń dzwoneczku,"},
-            {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Mój stepowy skowroneczku."},
-            {"space":true,"chorus":true,"x_repeat":true,"lyric_line":"Hej, hej, hej sokoły"},
-            {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Omijajcie góry, lasy, doły."},
-            {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Dzwoń, dzwoń, dzwoń dzwoneczku,"},
-            {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Mój stepowy Dzwoń, dzwoń, dzwoń"},
+            {"space":true,"chorus":true,"x_repeat":false,"lyric_line":"Hej, hej, hej sokoły"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Omijajcie góry, lasy, doły."},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Dzwoń, dzwoń, dzwoń dzwoneczku,"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Mój stepowy skowroneczku."},
+            {"space":true,"chorus":true,"x_repeat":false,"lyric_line":"Hej, hej, hej sokoły"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Omijajcie góry, lasy, doły."},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Dzwoń, dzwoń, dzwoń dzwoneczku,"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Mój stepowy Dzwoń, dzwoń, dzwoń"},
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Ona jedna tam została,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Przepióreczka moja mała,"},
+            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Przepióreczka moja mała,"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"A ja tutaj w obcej stronie,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Dniem i nocą tęsknię do niej."},
-            {"space":true,"chorus":true,"x_repeat":true,"lyric_line":"Hej, hej, hej sokoły"},
-            {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Omijajcie góry, lasy, doły."},
-            {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Dzwoń, dzwoń, dzwoń dzwoneczku,"},
-            {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Mój stepowy skowroneczku."},
-            {"space":true,"chorus":true,"x_repeat":true,"lyric_line":"Hej, hej, hej sokoły"},
-            {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Omijajcie góry, lasy, doły."},
-            {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Dzwoń, dzwoń, dzwoń dzwoneczku,"},
-            {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Mój stepowy Dzwoń, dzwoń, dzwoń"},
-            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Żal, żal za dziewczyną,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Za zieloną Ukrainą,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Żal, żal serce płacze,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Już jej więcej nie zobaczę."},
-            {"space":true,"chorus":true,"x_repeat":true,"lyric_line":"Hej, hej, hej sokoły"},
-            {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Omijajcie góry, lasy, doły."},
-            {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Dzwoń, dzwoń, dzwoń dzwoneczku,"},
-            {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Mój stepowy skowroneczku."},
-            {"space":true,"chorus":true,"x_repeat":true,"lyric_line":"Hej, hej, hej sokoły"},
-            {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Omijajcie góry, lasy, doły."},
-            {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Dzwoń, dzwoń, dzwoń dzwoneczku,"},
-            {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Mój stepowy Dzwoń, dzwoń, dzwoń"},
+            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Dniem i nocą tęsknię do niej."},
+            {"space":true,"chorus":true,"x_repeat":false,"lyric_line":"Hej, hej, hej sokoły"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Omijajcie góry, lasy, doły."},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Dzwoń, dzwoń, dzwoń dzwoneczku,"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Mój stepowy skowroneczku."},
+            {"space":true,"chorus":true,"x_repeat":false,"lyric_line":"Hej, hej, hej sokoły"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Omijajcie góry, lasy, doły."},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Dzwoń, dzwoń, dzwoń dzwoneczku,"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Mój stepowy Dzwoń, dzwoń, dzwoń"},
+            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Żal, żal za dziewczyną,"},
+            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Za zieloną Ukrainą,"},
+            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Żal, żal serce płacze,"},
+            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Już jej więcej nie zobaczę."},
+            {"space":true,"chorus":true,"x_repeat":false,"lyric_line":"Hej, hej, hej sokoły"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Omijajcie góry, lasy, doły."},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Dzwoń, dzwoń, dzwoń dzwoneczku,"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Mój stepowy skowroneczku."},
+            {"space":true,"chorus":true,"x_repeat":false,"lyric_line":"Hej, hej, hej sokoły"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Omijajcie góry, lasy, doły."},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Dzwoń, dzwoń, dzwoń dzwoneczku,"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Mój stepowy Dzwoń, dzwoń, dzwoń"},
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Wina, wina, wina, dajcie,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"A jak umrę pochowajcie"},
+            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"A jak umrę pochowajcie"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Na zielonej Ukrainie"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Przy kochanej mej dziewczynie."},
-            {"space":true,"chorus":true,"x_repeat":true,"lyric_line":"Hej, hej, hej sokoły"},
-            {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Omijajcie góry, lasy, doły."},
-            {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Dzwoń, dzwoń, dzwoń dzwoneczku,"},
-            {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Mój stepowy skowroneczku."},
-            {"space":true,"chorus":true,"x_repeat":true,"lyric_line":"Hej, hej, hej sokoły"},
-            {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Omijajcie góry, lasy, doły."},
-            {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Dzwoń, dzwoń, dzwoń dzwoneczku,"},
-            {"space":false,"chorus":true,"x_repeat":true,"lyric_line":"Mój stepowy Dzwoń, dzwoń, dzwoń"}
+            {"space":true,"chorus":true,"x_repeat":false,"lyric_line":"Hej, hej, hej sokoły"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Omijajcie góry, lasy, doły."},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Dzwoń, dzwoń, dzwoń dzwoneczku,"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Mój stepowy skowroneczku."},
+            {"space":true,"chorus":true,"x_repeat":false,"lyric_line":"Hej, hej, hej sokoły"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Omijajcie góry, lasy, doły."},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Dzwoń, dzwoń, dzwoń dzwoneczku,"},
+            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Mój stepowy Dzwoń, dzwoń, dzwoń"}
         ]
     },
     {
