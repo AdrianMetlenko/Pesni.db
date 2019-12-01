@@ -5135,8 +5135,9 @@
         ]
     },
     {
-        "name": "Їхав козак за Дунай",
+        "name": "Йихав козак за Дунай",
         "category": "Украинские Песни",
+        "youtube_id": "u3EwoLkwq_o",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Їхав козак за Дунай,"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"сказав: «Дівчино, прощай!"},
