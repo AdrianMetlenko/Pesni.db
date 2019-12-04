@@ -1180,8 +1180,9 @@
     },
     {
         "name": "На горе колхоз",
-        "category": "Народные Песни",
-        "youtube_id": "EsZXKHn_5PI",
+        "performing_artist": "Надежда Кадышева",
+        "category": "Авторские Песни",
+        "youtube_id": "W8LiEK0uh80",
         "lyrics": [
             {"space": true, "chorus": false, "x_repeat": false, "lyric_line": "На горе колхоз,"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "под горой совхоз,"},
@@ -6549,30 +6550,6 @@
             {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Поздравляют все тебя друзья."},
             {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Будет счастье, радости мгновенья,"},
             {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Всё сегодня только для тебя!"}
-        ]
-    },
-    {
-        "name": "На горе колхоз",
-        "performing_artist": "Надежда Кадышева",
-        "category": "Авторские Песни",
-        "youtube_id": "W8LiEK0uh80",
-        "lyrics": [
-            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"На горе колхоз, под горой совхоз,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"А мне миленький задавал вопрос."},
-            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Задавал вопрос, сам глядел в глаза:"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Ты колхозница, тебя любить нельзя."},
-            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"А-я-я-я-яй, о-йо-йо-йо-йой"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Ты колхозница, тебя любить нельзя."},
-            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Что колхозница, не отрицаю я,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"И любить тебя не собираюсь я."},
-            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"А-я-я-я-яй, о-йо-йо-йо-йой"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"И любить тебя не собираюсь я."},
-            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Я пойду туда, где густая рожь,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"И найду себе, кто на меня похож."},
-            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"А-я-я-я-яй, о-йо-йо-йо-йой"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"И найду себе, кто на меня похож."},
-            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"На горе колхоз, под горой совхоз,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"А мне миленький задавал вопрос."}
         ]
     },
     {
