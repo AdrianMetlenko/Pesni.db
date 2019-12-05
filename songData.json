@@ -392,7 +392,7 @@
     {
         "name": "В роще пел соловушка",
         "category": "Народные Песни",
-        "youtube_id": "BSm2RNjUi-w",
+        "youtube_id": "dlBglL5YA7k",
         "lyrics": [
             {"space": true, "chorus": false, "x_repeat": false, "lyric_line": "В роще пел соловушка, там вдали"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Песенку о счастье и о любви"},
@@ -1339,7 +1339,7 @@
     {
         "name": "По Дону гуляет",
         "category": "Народные Песни",
-        "youtube_id": "XVz0f9BQmg0",
+        "youtube_id": "eeTmjxWeA48",
         "lyrics": [
             {"space": true, "chorus": false, "x_repeat": false, "lyric_line": "По Дону гуляет,"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "по Дону гуляет,"},
@@ -1922,7 +1922,7 @@
     {
         "name": "Каким ты был",
         "category": "Казачьи Песни",
-        "youtube_id": "yGzQYw-Jwzc",
+        "youtube_id": "Trr-jB1LABk",
         "lyrics": [
             {"space": true, "chorus": false, "x_repeat": false, "lyric_line": "Каким ты был таким остался"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Орел степной казак лихой"},
@@ -2254,7 +2254,7 @@
     {
         "name": "Поезд уходит далеко",
         "category": "Казачьи Песни",
-        "youtube_id": "8iJPz23ZLaE",
+        "youtube_id": "oZ7XT986O_k",
         "lyrics": [
             {"space": true, "chorus": false, "x_repeat": false, "lyric_line": "Поезд уходит далёко,"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Ты мне помашешь рукой,"},
@@ -2764,7 +2764,7 @@
     {
         "name": "Темная ночь",
         "category": "Патриотические и Военные Песни",
-        "youtube_id": "OkNaJYr2kVQ",
+        "youtube_id": "1vRYwaJC5FY",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Темная ночь"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"только пули свистят по степи"},
@@ -5241,60 +5241,6 @@
         ]
     },
     {
-        "name": "Мoscow",
-        "category": "Разные Песни",
-        "youtube_id": "hDnLIYd0hZY",
-        "lyrics": [
-            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Moscow,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Queen of the Russian land"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Built like a rock to stand,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"proud and devine"},
-            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Moscow,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"your golden towers glow"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Even through ice and snow,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"sparkling they shine"},
-            {"space":true,"chorus":true,"x_repeat":false,"lyric_line":"And every night, night, night, there is music (hey, hey)"},
-            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Oh every night, night, night, there is laugh (hah, hah)"},
-            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"And every night, night, night, there is rivalry"},
-            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Here’s to you, brother, hey brother, hoh"},
-            {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Hey! Hey! Hey! Hey!"},
-            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Moscow, Moscow,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"throwing glasses at the wall"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"And good fortune to us all,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Hoh-hoh-hoh-hoh-hoh, Hey!"},
-            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Moscow, Moscow,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"join us for a Cossack Show"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"We’ll go dancing ‘round the clock,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Hah-hah-hah-hah-hah, Hey!"},
-            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Moscow, Moscow,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"drinking vodka all night long"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Keeps you happy, makes you strong,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Hoh-hoh-hoh-hoh-hoh, Hey!"},
-            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Moscow, Moscow,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"come and have a drink and then"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"You will never leave again,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Hah-hah-hah-hah-hah"},
-            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Moscow,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Lah-lah-lah-lah-lah-lah-lah"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Lah-lah-lah-lah-lah lah-lah"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Hoh-hoh-hoh-hoh-hoh, Hey!"},
-            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Moscow,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Lah-lah-lah-lah-lah-lah-lah"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Lah-lah-lah-lah-lah lah-lah"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Hah-hah-hah-hah-hah,"},
-            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Moscow! Moscow!"},
-            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Moscow, Moscow,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"take Natascha in your arms,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"You’ll be captured by her charms,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"ho-ho-ho-ho-ho, hey!"},
-            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Moscow, Moscow,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"she will make you understand,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Russia is a wondrous land,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"ha-ha-ha-ha-ha!"},
-            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Moscow! Moscow!"}
-        ]
-    },
-    {
         "name": "Тhose Were The Days",
         "category": "Разные Песни",
         "youtube_id": "y3KEhWTnWvE",
@@ -6043,7 +5989,7 @@
         "name": "Вот кто-то с горочки спустился",
         "performing_artist": "Надежда Кадышева",
         "category": "Народные Песни",
-        "youtube_id": "jhfjEiKYzZo",
+        "youtube_id": "AYuaZJ5WXYA",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Вот кто-то с горочки спустился"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Наверно милый мой идет"},
