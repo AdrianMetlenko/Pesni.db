@@ -4404,7 +4404,7 @@
     },
     {
         "name": "Висить ябко, висить",
-        "category": "Украинские Песни",
+        "category": "Украинские и Белорусские Песни",
         "youtube_id": "a04NuocGgBs",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Висить ябко, висить,"},
@@ -4431,7 +4431,7 @@
     },
     {
         "name": "Горіла сосна палала",
-        "category": "Украинские Песни",
+        "category": "Украинские и Белорусские Песни",
         "youtube_id": "chGXjem8pA4",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Горіла сосна,палала"},
@@ -4470,7 +4470,7 @@
     },
     {
         "name": "Засвистали козаченьки",
-        "category": "Украинские Песни",
+        "category": "Украинские и Белорусские Песни",
         "youtube_id": "0n_ZY6BwDy4",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Засвистали козаченьки"},
@@ -4501,7 +4501,7 @@
     },
     {
         "name": "Йихав козак за Дунай",
-        "category": "Украинские Песни",
+        "category": "Украинские и Белорусские Песни",
         "youtube_id": "u3EwoLkwq_o",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Їхав козак за Дунай,"},
@@ -4540,7 +4540,7 @@
     },
     {
         "name": "Несе Галя воду",
-        "category": "Украинские Песни",
+        "category": "Украинские и Белорусские Песни",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Несе Галя воду,"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"коромисло гнеться."},
@@ -4574,7 +4574,7 @@
     },
     {
         "name": "Одна Калина",
-        "category": "Украинские Песни",
+        "category": "Украинские и Белорусские Песни",
         "youtube_id": "8WHlUTsXQD8",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Сумно сумно аж за край"},
@@ -4616,7 +4616,7 @@
     },
     {
         "name": "Ой хмариться, туманиться",
-        "category": "Украинские Песни",
+        "category": "Украинские и Белорусские Песни",
         "youtube_id": "7R8jU6Q_gJc",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Ой хмариться, туманиться!"},
@@ -4651,7 +4651,7 @@
     },
     {
         "name": "Ой, в вишнёвом саду",
-        "category": "Украинские Песни",
+        "category": "Украинские и Белорусские Песни",
         "youtube_id": "Hr7G31Nergs",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Ой у вишневому саду"},
@@ -4686,7 +4686,7 @@
     },
     {
         "name": "Розпрягайте, хлопці, коні",
-        "category": "Украинские Песни",
+        "category": "Украинские и Белорусские Песни",
         "youtube_id": "6Ut8ULCAiNA",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Розпрягайте, хлопці, коней,"},
@@ -4737,7 +4737,7 @@
     },
     {
         "name": "Ти ж мене підманула",
-        "category": "Украинские Песни",
+        "category": "Украинские и Белорусские Песни",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Ти казала в понедiлок -"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"пiдем разом по барвiнок."},
@@ -4827,7 +4827,7 @@
     },
     {
         "name": "Червона рута",
-        "category": "Украинские Песни",
+        "category": "Украинские и Белорусские Песни",
         "youtube_id": "gc6R6ibs3X0",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Ти признайся менi,"},
@@ -4866,7 +4866,7 @@
     },
     {
         "name": "Братка Беларус",
-        "category": "Белорусские Песни",
+        "category": "Украинские и Белорусские Песни",
         "youtube_id": "jpf_8M-XK5I",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Я сустрэу калiсцi чалавека,"},
@@ -4905,7 +4905,7 @@
     },
     {
         "name": "Купалiнка",
-        "category": "Белорусские Песни",
+        "category": "Украинские и Белорусские Песни",
         "youtube_id": "OI32mR94RzA",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Купалiнка-купалiнка,"},
@@ -4928,7 +4928,7 @@
     },
     {
         "name": "Три ангела",
-        "category": "Белорусские Песни",
+        "category": "Православные Песни",
         "youtube_id": "x12FUUkA6eQ",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Ой, шлi-прайшлi"},
