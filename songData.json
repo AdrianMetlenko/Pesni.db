@@ -2438,7 +2438,7 @@
     {
         "name": "Андрюша",
         "category": "Патриотические и Военные Песни",
-        "youtube_id": "npccFDB52-M&spfreload=10",
+        "youtube_id": "npccFDB52-M",
         "lyrics": [
             {"space": true, "chorus": false, "x_repeat": false, "lyric_line": "Эх, путь-дорожка, звени, моя гармошка,"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Взгляни, как сияют над звёзды рекой."},
