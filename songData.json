@@ -1230,7 +1230,7 @@
     {
         "name": "Однозвучно гремит колокольчик",
         "category": "Народные Песни",
-        "youtube_id": "icvgYGOueLY&spfreload=10",
+        "youtube_id": "icvgYGOueLY",
         "lyrics": [
             {"space": true, "chorus": false, "x_repeat": false, "lyric_line": "Однозвучно гремит колокольчик,"},
             {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "И дорога пылится слегка,"},
