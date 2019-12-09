@@ -6540,7 +6540,7 @@
         "name": "Звезда по имени Солнце",
         "performing_artist": "Виктор Цой",
         "category": "Разные Песни",
-        "youtube_id": "BuQkQEcsm5Y",
+        "youtube_id": "jQV5VXfKDYc",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Белый снег, серый лёд"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"На растрескавшейся земле,"},
@@ -6663,44 +6663,6 @@
             {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"Значит всё не так уж плохо на сегодняшний день"},
             {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"И билет на самолет с серебристым крылом"},
             {"space":false,"chorus":false,"x_repeat":true,"lyric_line":"Что, взлетая, оставляет земле лишь тень"}
-        ]
-    },
-    {
-        "name": "Звезда По Имени Солнце",
-        "performing_artist": "Виктор Цой",
-        "category": "Разные Песни",
-        "youtube_id": "jQV5VXfKDYc",
-        "lyrics": [
-            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Белый снег, серый лед,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"На растрескавшейся земле."},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Одеялом лоскутным на ней -"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Город в дорожной петле."},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"А над городом плывут облака,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Закрывая небесный свет."},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"А над городом - желтый дым,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Городу две тысячи лет,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Прожитых под светом Звезды"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"По имени Солнце..."},
-            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"И две тысячи лет - война,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Война без особых причин."},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Война - дело молодых,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Лекарство против морщин."},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Красная, красная кровь -"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Через час уже просто земля,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Через два на ней цветы и трава,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Через три она снова жива"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"И согрета лучами Звезды"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"По имени Солнце..."},
-            {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"И мы знаем, что так было всегда,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Что Судьбою больше любим,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Кто живет по законам другим,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"И кому умирать молодым."},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Он не помнит слова да и слова нет,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Он не помнит ни чинов, ни имён,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"И способен дотянуться до звёзд,"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Не считая, что это сон."},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"И упасть, опаленным звездой"},
-            {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"По имени Солнце..."}
         ]
     },
     {
