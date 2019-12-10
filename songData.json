@@ -3318,6 +3318,7 @@
     },
     {
         "name": "Надежда",
+        "performing_artist": "Анна Герман",
         "category": "Разные Песни",
         "youtube_id": "mX6Gdgif60Y",
         "lyrics": [
@@ -6459,7 +6460,7 @@
         ]
     },
     {
-        "name": "Осень",
+        "name": "Осень (1)",
         "performing_artist": "ДДТ",
         "category": "Разные Песни",
         "youtube_id": "5KC-iscJtsI",
@@ -6849,5 +6850,231 @@
             {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"Уезжай! Эх была не была прости и прощай."},
             {"space":false,"chorus":true,"x_repeat":false,"lyric_line":"План такой - нам с тобой..."}
         ]
+    },
+    {
+        "name": "Я свободен",
+        "performing_artist": "Ария",
+        "category": "Разные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Потернный рай",
+        "performing_artist": "Ария",
+        "category": "Разные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Беспеченный рай",
+        "performing_artist": "Ария",
+        "category": "Разные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "25 июля",
+        "performing_artist": "Николай Емелин",
+        "category": "Разные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Русь",
+        "performing_artist": "Николай Емелин",
+        "category": "Разные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Осень (2)",
+        "performing_artist": "Николай Емелин",
+        "category": "Разные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Прогулки по воде",
+        "performing_artist": "Вячеслав Бутусов",
+        "category": "Разные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Гудбай Америка",
+        "performing_artist": "Вячеслав Бутусов",
+        "category": "Разные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Крылья",
+        "performing_artist": "Вячеслав Бутусов",
+        "category": "Разные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Девушкв по городу",
+        "performing_artist": "Вячеслав Бутусов",
+        "category": "Разные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Ты неси меня река",
+        "performing_artist": "Любэ",
+        "category": "Разные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Адмирал",
+        "performing_artist": "Любэ",
+        "category": "Разные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Солдат",
+        "performing_artist": "Любэ",
+        "category": "Разные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Многая лета Русской земле",
+        "performing_artist": "Любэ",
+        "category": "Разные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Лес и Поля",
+        "performing_artist": "Любэ",
+        "category": "Разные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "По высокой траве",
+        "performing_artist": "Любэ",
+        "category": "Разные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Дождь",
+        "performing_artist": "ДДТ",
+        "category": "Разные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Метель",
+        "performing_artist": "ДДТ",
+        "category": "Разные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Мечты сбываются",
+        "performing_artist": "Юрий Антонов",
+        "category": "Разные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Не умирай любовь",
+        "performing_artist": "Юрий Антонов",
+        "category": "Разные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Все, что касается",
+        "performing_artist": "Звери",
+        "category": "Разные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "До скорой встречи",
+        "performing_artist": "Звери",
+        "category": "Разные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Ромашки",
+        "performing_artist": "Земфира",
+        "category": "Разные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Синоптик",
+        "performing_artist": "Земфира",
+        "category": "Разные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Вечная молодость",
+        "performing_artist": "Чиж",
+        "category": "Разные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Непогода",
+        "category": "Детские Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "В горнице моей светло",
+        "performing_artist": "Кукуруза",
+        "category": "Разные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Гимн Семьи",
+        "category": "Православные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Бог, Россия, соловьи",
+        "performing_artist": "Светлана Копылова",
+        "category": "Православные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "А закаты алые",
+        "category": "Разные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Зорька алая",
+        "category": "Разные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "Ваше Благородие",
+        "category": "Разные Песни",
+        "youtube_id": "",
+        "lyrics": []
+    },
+    {
+        "name": "День Победы",
+        "performing_artist": "Лев Лещенко",
+        "category": "Разные Песни",
+        "youtube_id": "",
+        "lyrics": []
     }
 ]
