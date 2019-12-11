@@ -3031,7 +3031,7 @@
     },
     {
         "name": "Роза",
-        "youtube_id": "iNBWOciUNbE  ",
+        "youtube_id": "iNBWOciUNbE",
         "category": "Русские Романсы",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":true,"lyric_line":"Я встретил розу, роза цвела"},
@@ -6931,7 +6931,7 @@
         "name": "Районы-кварталы",
         "performing_artist": "Звери",
         "category": "Разные Песни",
-        "youtube_id": "Ezfv3J0jsnY",
+        "youtube_id": "VYzJZXKyns8",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Больше нечего ловить"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Всё что надо я поймал"},
@@ -7756,7 +7756,7 @@
         "name": "Бог, Россия, соловьи",
         "performing_artist": "Светлана Копылова",
         "category": "Православные Песни",
-        "youtube_id": "bohYt-Diy-4",
+        "youtube_id": "bQw-VxmThLA",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Весна пьянит, и кружится головушка."},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"И от любви готов я умереть!"},
@@ -7841,7 +7841,7 @@
     {
         "name": "Ваше Благородие",
         "category": "Разные Песни",
-        "youtube_id": "wn0_MXfnwFA",
+        "youtube_id": "XkhRO2i1wqk",
         "lyrics": [
             {"space":true,"chorus":false,"x_repeat":false,"lyric_line":"Ваше благородие,"},
             {"space":false,"chorus":false,"x_repeat":false,"lyric_line":"Госпожа разлука,"},
