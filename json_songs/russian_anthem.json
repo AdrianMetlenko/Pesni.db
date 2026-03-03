@@ -1,0 +1,30 @@
+{
+  "name": "Гимн Российской Федерации",
+  "category": "Патриотические и Военные Песни",
+  "lyrics": [
+    {"space": true, "chorus": false, "x_repeat": false, "lyric_line": "Россия — священная наша держава,"},
+    {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Россия — любимая наша страна."},
+    {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Могучая воля, великая слава —"},
+    {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Твоё достоянье на все времена!"},
+    {"space": true, "chorus": true, "x_repeat": false, "lyric_line": "Славься, Отечество наше свободное,"},
+    {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "Братских народов союз вековой,"},
+    {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "Предками данная мудрость народная!"},
+    {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "Славься, страна! Мы гордимся тобой!"},
+    {"space": true, "chorus": false, "x_repeat": false, "lyric_line": "От южных морей до полярного края"},
+    {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Раскинулись наши леса и поля."},
+    {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Одна ты на свете! Одна ты такая —"},
+    {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Хранимая Богом родная земля!"},
+    {"space": true, "chorus": true, "x_repeat": false, "lyric_line": "Славься, Отечество наше свободное,"},
+    {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "Братских народов союз вековой,"},
+    {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "Предками данная мудрость народная!"},
+    {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "Славься, страна! Мы гордимся тобой!"},
+    {"space": true, "chorus": false, "x_repeat": false, "lyric_line": "Широкий простор для мечты и для жизни"},
+    {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Грядущие нам открывают года."},
+    {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Нам силу даёт наша верность Отчизне."},
+    {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Так было, так есть и так будет всегда!"},
+    {"space": true, "chorus": true, "x_repeat": false, "lyric_line": "Славься, Отечество наше свободное,"},
+    {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "Братских народов союз вековой,"},
+    {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "Предками данная мудрость народная!"},
+    {"space": false, "chorus": true, "x_repeat": false, "lyric_line": "Славься, страна! Мы гордимся тобой!"}
+  ]
+}
