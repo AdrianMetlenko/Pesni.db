@@ -1,0 +1,174 @@
+{
+  "name": "Степ, да степ кругом!",
+  "category": "Народные Песни",
+  "lyrics": [
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Степь да степь кругом,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Путь далек лежит."
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "В той степи глухой"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Замерзал ямщик."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "И, набравшись сил,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Чуя смертный час,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Он товарищу"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Отдавал наказ:"
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "«Ты, товарищ мой,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Не попомни зла,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Здесь, в степи глухой,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Схорони меня!"
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "А коней моих"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Сведи к батюшке,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Передай поклон"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Родной матушке."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "А жене скажи"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Слово прощальное,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Передай кольцо"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Обручальное."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Про меня скажи,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Что в степи замерз,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "А любовь ее"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Я с собой унес»."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Степь да степь кругом,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Путь далек лежит."
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "В той степи глухой"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Замерзал ямщик."
+    }
+  ]
+}

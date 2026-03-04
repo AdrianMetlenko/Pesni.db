@@ -1,0 +1,102 @@
+{
+  "name": "Подмосковные вечера",
+  "category": "Русские Романсы",
+  "lyrics": [
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Не слышны в саду даже шорохи,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Всё здесь замерло до утра,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Если б знали вы, как мне дороги"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Подмосковные вечера."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Речка движется и не движется,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Вся из лунного серебра,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Песня слышится и не слышится"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "В эти тихие вечера."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Что ж ты, милая, смотришь искоса,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Низко голову наклоня,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Трудно высказать и не высказать"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Всё, что на сердце у меня."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "А рассвет уже всё заметнее,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Так пожалуйста, будь добра,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Не забудь и ты эти летние"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Подмосковные вечера. "
+    }
+  ]
+}

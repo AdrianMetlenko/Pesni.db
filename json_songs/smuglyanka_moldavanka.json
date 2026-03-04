@@ -1,0 +1,276 @@
+{
+  "name": "Смуглянка-молдаванка",
+  "category": "Народные Песни",
+  "lyrics": [
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Как-то летом на рассвете"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Заглянул в соседний сад,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Там смуглянка-молдаванка"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Собирает виноград."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Я краснею, я бледнею,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Захотелось вдруг сказать -"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Станем над рекою"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Зорьки летние встречать."
+    },
+    {
+      "space": true,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Раскудрявый"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "клён зелёный, лист резной,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Я влюблённый"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "и смущённый пред тобой,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Клен зелёный"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "да клён кудрявый,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Да раскудрявый резной."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "А смуглянка-молдаванка"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Отвечала парню в лад -"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Партизанский молдаванский"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Собираем мы отряд."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Нынче рано партизаны"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Дом покинули родной,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Ждёт тебя дорога"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "К партизанам в лес густой."
+    },
+    {
+      "space": true,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Раскудрявый"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "клён зелёный, лист резной,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Я влюблённый"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "и смущённый пред тобой,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Клен зелёный"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "да клён кудрявый,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Да раскудрявый резной."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "И смуглянка-молдаванка"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "По тропинке в лес ушла,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "В том обиду я увидел,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Что с собой не позвала."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "О смуглянке-молдаванке"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Часто думал по ночам,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Вдруг свою смуглянку"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Я в отряде повстречал."
+    },
+    {
+      "space": true,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Раскудрявый"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "клён зелёный, лист резной,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Я влюблённый"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "и смущённый пред тобой,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Клен зелёный"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "да клён кудрявый,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Да раскудрявый резной."
+    }
+  ]
+}

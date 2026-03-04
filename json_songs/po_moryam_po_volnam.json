@@ -1,0 +1,246 @@
+{
+  "name": "По морям, по волнам",
+  "category": "Народные Песни",
+  "lyrics": [
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Что за жизнь у чудо-моряка,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Уж так привольна и легка."
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "От земли, земли, да к небесам,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Нынче здесь, а завтра там."
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "По морям, по волнам,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Нынче здесь, завтра там."
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "По морям, морям, морям, морям, эх,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Нынче здесь, а завтра там."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Ты, моряк, красивый сам собою,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Тебе от роду только двадцать лет."
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Полюби, моряк, меня душою,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Что ты скажешь мне в ответ."
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "По морям, по волнам,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Нынче здесь, завтра там."
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "По морям, морям, морям, морям, эх,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Нынче здесь, а завтра там."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Ты, моряк, уедешь в сине море"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "И меня оставишь в тяжком горе,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "А я буду плакать и рыдать"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "И тебя, мой милый, вспоминать."
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "По морям, по волнам,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Нынче здесь, завтра там."
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "По морям, морям, морям, морям, эх,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Нынче здесь, а завтра там."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Я во Турцию поеду,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "На турчанке там женюсь."
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Приму веру, веру Магомета"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "И в Россию больше не вернусь."
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "По морям, по волнам,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Нынче здесь, завтра там."
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "По морям, морям, морям, морям, эх,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Нынче здесь, а завтра там."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "А я в Турцию не поеду,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "И на турчанке не женюсь,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Сам от дальних странствий откажуся"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "И с тобой навек соединюсь."
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "По морям, по волнам,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Нынче здесь, завтра там."
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "По морям, морям, морям, морям, эх,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Нынче здесь, а завтра там."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "name": "Ничего не получится",
+  "performing_artist": "Надежда Кадышева",
+  "category": "Народные Песни",
+  "lyrics": [
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Как мечталось мне чтобы грянул гром"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Чтобы с той другой все пошло на слом"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Только я поверь не умею лгать"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Только я пойми не умею ждать."
+    },
+    {
+      "space": true,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Ничего у нас с тобой не получится"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Чувства лучшие сожгли мы дотла"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "На ошибках, говорят, люди учатся"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "А моя любовь ошибкою была."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Как хотелось мне чтобы хлынул дождь"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "И сказать другой ты напрасно ждешь"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Вся твоя любовь словно тонкий лед"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Вся твоя любовь словно горький мед."
+    },
+    {
+      "space": true,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Ничего у нас с тобой не получится"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Чувства лучшие сожгли мы дотла"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "На ошибках, говорят, люди учатся"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "А моя любовь ошибкою была."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Невдомек тебе и не знаешь ты"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Можно ворожить и сжигать мосты"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Только я в душе все переживу"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "И назад тебя я не позову."
+    },
+    {
+      "space": true,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Ничего у нас с тобой не получится"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Чувства лучшие сожгли мы дотла"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "На ошибках, говорят, люди учатся"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "А моя любовь ошибкою была."
+    }
+  ]
+}

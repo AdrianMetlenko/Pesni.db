@@ -1,0 +1,222 @@
+{
+  "name": "Налей, налей, бокалы полней",
+  "category": "Народные Песни",
+  "lyrics": [
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Наша жизнь коротка,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "всё уносит с собой,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Наша юность, друзья,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "пронесётся стрелой,"
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Проведёмте ж, друзья,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "эту ночь веселей,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "И пусть наша семья"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "соберётся тесней."
+    },
+    {
+      "space": true,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Налей, налей бокалы полней,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Налей, налей бокалы полней."
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "И пусть наша семья соберётся тесней,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "И пусть наша семья соберётся тесней."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Выпьем первый бокал"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "за великий народ,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "А второй наш бокал"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "за девиз наш: «Вперед»!"
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Проведёмте ж друзья"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "эту ночь веселей,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "И пусть наша семья"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "соберётся тесней."
+    },
+    {
+      "space": true,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Налей, налей бокалы полней,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Налей, налей бокалы полней."
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "И пусть наша семья соберётся тесней,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "И пусть наша семья соберётся тесней."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "А последний бокал"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "будем мы поднимать"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "За великую Русь,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "нашу Родину-мать."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Проведёмте ж друзья"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "эту ночь веселей,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "И пусть наша семья"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "соберётся тесней."
+    },
+    {
+      "space": true,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Налей, налей бокалы полней,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Налей, налей бокалы полней."
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "И пусть наша семья соберётся тесней,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "И пусть наша семья соберётся тесней."
+    }
+  ]
+}

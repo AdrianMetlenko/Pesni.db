@@ -1,0 +1,222 @@
+{
+  "name": "Когда б имел златые горы",
+  "category": "Народные Песни",
+  "lyrics": [
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Когда б имел златые горы"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "И реки, полные вина,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Всё отдал бы за ласки, взоры,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Чтоб ты владела мной одна."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Не упрекай несправедливо,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Скажи всю правду ты отцу,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Тогда свободно и счастливо"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "С молитвой мы пойдем к венцу."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "«Не раз, Мария, твою руку"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Просил я у отца, не раз."
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Отец не понял моей руки,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Жестокий сердцу дал отказ»."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Тогда бежать я с ним решилась,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Поверив клятве роковой,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "На божий храм перекрестилась,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "В слезах взглянув на дом родной."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Умчались мы в страну чужую,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "А через год он изменил,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Забыл он клятву роковую,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "А сам другую полюбил."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "А мне сказал, стыдясь измены,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Ступай обратно в дом отца,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Оставь, Мария, мои стены,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "И проводил меня с крыльца."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "За речи, ласки огневые"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Я награжу тебя конем."
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Уздечку, хлыстик золотые"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Седельце шито жемчугом»."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "«Не надо мне твоей уздечки,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Не надо мне твово коня,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Ты пропил горы золотые"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "И реки полные вина». "
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Когда б имел златые горы"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "И реки, полные вина,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Всё отдал бы за ласки, взоры,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Чтоб ты владела мной одна."
+    }
+  ]
+}

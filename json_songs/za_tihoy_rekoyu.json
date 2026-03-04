@@ -1,0 +1,103 @@
+{
+  "name": "За тихой рекою",
+  "performing_artist": "Сергей Трофимов",
+  "category": "Православные Песни",
+  "lyrics": [
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "За тихой рекою, в берёзовой роще"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Распустится первый весенний цветок."
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "И я загадаю желание попроще"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "И, перекрестившись, взгляну на Восток."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Окрасится небо багряной зарёю,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "И вечное солнце над миром взойдёт,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "И белая птица взлетит над землёю,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "И Божие прощенье с небес принесёт."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "И что-то большое откроется сердцу,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Такое, что жизнью моей не объять."
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "И станет спокойно и сладко как в детстве,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Когда обнимала меня моя мать."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Молитва святая слезами прольётся,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Христовой любовью исполнится грусть,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "И в это мгновение душа прикоснётся"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "К великой вселенной по имени Русь."
+    }
+  ]
+}

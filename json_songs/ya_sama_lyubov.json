@@ -1,0 +1,295 @@
+{
+  "name": "Я сама любовь",
+  "performing_artist": "Надежда Кадышева",
+  "category": "Народные Песни",
+  "lyrics": [
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "У меня моя соперница"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Хочет милого отбить."
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Только зря она надеется,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Ей меня не погубить."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Я сама хмельная ягода,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Я сама дурман-трава,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Знаю я, какие надобно"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Приворотные слова."
+    },
+    {
+      "space": true,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Я сама беда,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Я сама огонь,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "До утра по мне"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Слёзы льёт гармонь."
+    },
+    {
+      "space": true,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Зря, соперница,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Ты подводишь бровь,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Не отнять тебе"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "У меня любовь."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Ты не жди его, красавица,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "И не стой ты у ворот."
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Если кто уж мне понравится,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "От меня он не уйдёт."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Облетит листва беспечная"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Лишь наступят холода,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "А любовь моя сердечная"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Не увянет никогда."
+    },
+    {
+      "space": true,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Я сама беда,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Я сама огонь,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "До утра по мне"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Слёзы льёт гармонь."
+    },
+    {
+      "space": true,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Зря, соперница,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Ты подводишь бровь,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Не отнять тебе"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "У меня любовь."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Загляну в глаза я милому,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Сброшу шубу с плеч долой,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "По серебряному инею"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Конь умчит нас удалой."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Заметёт следы метелица,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Бубенцов растает звон."
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "А тебя, моя соперница"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "С глаз долой, из сердца вон!"
+    },
+    {
+      "space": true,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Я сама беда,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Я сама огонь,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "До утра по мне"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Слёзы льёт гармонь."
+    },
+    {
+      "space": true,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Зря, соперница,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Ты подводишь бровь,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Не отнять тебе"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "У меня любовь."
+    }
+  ]
+}

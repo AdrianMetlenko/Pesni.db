@@ -1,0 +1,84 @@
+{
+  "name": "Старый клен",
+  "category": "Русские Романсы",
+  "lyrics": [
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Старый клён, старый клён,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Старый клён стучит в стекло,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Приглашая нас с друзьями на прогулку."
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Отчего, отчего, отчего мне так светло,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Оттого, что ты идёшь по переулку."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Снегопад, снегопад, снегопад давно прошёл,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Словно в гости к нам весна опять вернулась."
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Отчего, отчего, отчего так хорошо,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Оттого, что ты мне просто улыбнулась."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Погляди, погляди, погляди на небосвод,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Как сияет он безоблачно и чисто."
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Отчего, отчего, отчего гармонь поёт,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Оттого, что кто-то любит гармониста."
+    }
+  ]
+}

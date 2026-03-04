@@ -1,0 +1,115 @@
+{
+  "name": "Уральская рябинушка",
+  "performing_artist": "Надежда Кадышева",
+  "category": "Народные Песни",
+  "lyrics": [
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Вечер тихой песнею над рекой плывёт."
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Дальними зарницами светится завод."
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Где-то поезд катится точками огня,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Где-то под рябинушкой парни ждут меня."
+    },
+    {
+      "space": true,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Ой, рябина кудрявая, белые цветы,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Ой, рябина, рябинушка, что взгрустнула ты?"
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Лишь гудки певучие смолкнут над водой,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Я иду к рябинушке тропкою крутой."
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Треплет под кудрявою ветер без конца,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Справа кудри токаря, слева - кузнеца."
+    },
+    {
+      "space": true,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Ой, рябина кудрявая, белые цветы,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Ой, рябина, рябинушка, что взгрустнула ты?"
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Кто из них желаннее, руку сжать кому?"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Сердцем растревоженным так и не пойму..."
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Оба - парни смелые, оба хороши,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Милая рябинушка, сердцу подскажи!"
+    },
+    {
+      "space": true,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Ой, рябина, рябинушка, оба хороши."
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Ой, рябина, рябинушка, сердцу подскажи!"
+    }
+  ]
+}

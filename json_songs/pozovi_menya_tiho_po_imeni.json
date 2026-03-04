@@ -1,0 +1,163 @@
+{
+  "name": "Позови меня тихо по имени",
+  "performing_artist": "Любэ",
+  "category": "Разные Песни",
+  "lyrics": [
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Позови меня тихо по имени,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Ключевой водой напои меня,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Отзовётся ли сердце безбрежное,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Несказанное, глупое, нежное."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Снова сумерки входят бессонные,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Снова застят мне стёкла оконные,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Там кивают сирень и смородина,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Позови меня, тихая Родина."
+    },
+    {
+      "space": true,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Позови меня на закате дня,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Позови меня, грусть-печаль моя."
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Позови меня."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Знаю, сбудется наше свидание,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Затянулось с тобой расставание,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Синий месяц за городом прячется,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Не тоскуется мне и не плачется."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Колокольчик ли, дальнее эхо ли,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Только мимо с тобой мы проехали,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Напылили кругом, накопытили,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Даже толком дороги не видели."
+    },
+    {
+      "space": true,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Позови меня на закате дня,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Позови меня, грусть-печаль моя."
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": true,
+      "lyric_line": "Позови меня."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Позови меня тихо по имени,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Ключевой водой напои меня,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Знаю, сбудется наше свидание,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Я вернусь, я сдержу обещание."
+    }
+  ]
+}

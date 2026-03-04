@@ -1,0 +1,126 @@
+{
+  "name": "Пусть бегут неуклюже",
+  "category": "Детские Песни",
+  "lyrics": [
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Пусть бегут неуклюже"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Пешеходы по лужам,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "А вода по асфальту рекой."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "И не ясно прохожим"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "В этот день непогожий"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Почему я весёлый такой."
+    },
+    {
+      "space": true,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "А я играю на гармошке"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "У прохожих на виду,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "К сожаленью, день рожденья"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Только раз в году."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Прилетит вдруг волшебник"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "В голубом вертолёте"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "И бесплатно покажет кино."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "С днём рожденья поздравит"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "И, наверно, оставит"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Мне в подарок пятьсот эскимо."
+    },
+    {
+      "space": true,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "А я играю на гармошке"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "У прохожих на виду,"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "К сожаленью, день рожденья"
+    },
+    {
+      "space": false,
+      "chorus": true,
+      "x_repeat": false,
+      "lyric_line": "Только раз в году."
+    }
+  ]
+}

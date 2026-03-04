@@ -1,0 +1,66 @@
+{
+  "name": "Роза",
+  "category": "Русские Романсы",
+  "lyrics": [
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Я встретил розу, роза цвела"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Шипов колючих роза полна"
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Сказал я розе: «Я в сад вернусь»"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "На этой розе я и женюсь"
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Я в сад вернулся, хожу-брожу"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Шипов колючих не нахожу"
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Ой, парни-парни, вам мой совет"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Не рвите розы в семнадцать лет"
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Розы прекрасны, розы нежны"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Их ароматы всем нам нужны"
+    }
+  ]
+}

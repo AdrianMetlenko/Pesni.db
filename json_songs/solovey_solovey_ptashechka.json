@@ -1,0 +1,150 @@
+{
+  "name": "Соловей, соловей, пташечка",
+  "category": "Патриотические и Военные Песни",
+  "lyrics": [
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Слушай, братцы, мой приказ:"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "“Поведу я в баню вас."
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Как скомандую: ать, два!"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Запевайте соловья”."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Эй, соловей, соловей, пташечка,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Канареечка жалобно поет."
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Эй, раз! Эй, два! Горе – не беда,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Канареечка жалобно поет."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Парикмахером я был,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Усы, бороды я брил;"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "А забрили и меня –"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Распеваю соловья."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Эй, соловей, соловей, пташечка,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Канареечка жалобно поет."
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Эй, раз! Эй, два! Горе – не беда,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Канареечка жалобно поет."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Раньше нежным баритоном"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "В оперетке шпарил я,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "А теперь солдатским тоном"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Распеваю соловья."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Эй, соловей, соловей, пташечка,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Канареечка жалобно поет."
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Эй, раз! Эй, два! Горе – не беда,"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Канареечка жалобно поет."
+    }
+  ]
+}

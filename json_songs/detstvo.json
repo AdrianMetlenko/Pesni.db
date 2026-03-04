@@ -1,0 +1,151 @@
+{
+  "name": "Детство",
+  "performing_artist": "Юрий Шатунов",
+  "category": "Разные Песни",
+  "lyrics": [
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Детство, детство, ты куда бежишь"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Детство, детство, ты куда спешишь"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Не наигрался я еще с тобой"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Детство, детство, ты куда ? Постой."
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "А я хочу, а я хочу опять"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "По крышам бегать, голубей гонять"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Дразнить Наташку, дергать за косу"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "На самокате мчаться по двору"
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Старушку искоса на нас глядят"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Не узнают вчерашних забияк"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "А мы с Наташкой по двору идем"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "И нет нам дела больше ни о чем"
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "А я хочу, а я хочу опять"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "По крышам бегать, голубей гонять"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Дразнить Наташку, дергать за косу"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "На самокате мчаться по двору"
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Детство, детство, ты куда ушло"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Где уютный уголок нашло"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Детства милого мне не догнать"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": false,
+      "lyric_line": "Остается с грустью вспоминать"
+    },
+    {
+      "space": true,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "А я хочу, а я хочу опять"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "По крышам бегать, голубей гонять"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "Дразнить Наташку, дергать за косу"
+    },
+    {
+      "space": false,
+      "chorus": false,
+      "x_repeat": true,
+      "lyric_line": "На самокате мчаться по двору"
+    }
+  ]
+}
