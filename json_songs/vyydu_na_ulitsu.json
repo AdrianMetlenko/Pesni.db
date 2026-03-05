@@ -6,25 +6,25 @@
       "space": true,
       "chorus": false,
       "x_repeat": false,
-      "lyric_line": "Выйду на улицу, солнца нема,"
+      "lyric_line": "Выйду на улицу – солнца нема,"
     },
     {
       "space": false,
       "chorus": false,
       "x_repeat": false,
-      "lyric_line": "Красные девки свели меня с ума."
+      "lyric_line": "Парни молодые свели меня с ума."
     },
     {
       "space": false,
       "chorus": false,
       "x_repeat": true,
-      "lyric_line": "Выйду на улицу, гляну на село,"
+      "lyric_line": "Выйду на улицу, гляну на село, -"
     },
     {
       "space": false,
       "chorus": false,
       "x_repeat": true,
-      "lyric_line": "Девчата гуляют и мне весело."
+      "lyric_line": "Девки гуляют, и мне весело.\n"
     },
     {
       "space": true,
@@ -36,25 +36,25 @@
       "space": false,
       "chorus": false,
       "x_repeat": false,
-      "lyric_line": "Сердце моё словно кидает в жар."
+      "lyric_line": "Сердце мое так и кидает в жар."
     },
     {
       "space": false,
       "chorus": false,
       "x_repeat": true,
-      "lyric_line": "Раньше гулял я в зелёном саду,"
+      "lyric_line": "Раньше я гуляла в зеленом саду,"
     },
     {
       "space": false,
       "chorus": false,
       "x_repeat": true,
-      "lyric_line": "Думал, на улицу век не пойду,"
+      "lyric_line": "Думала на улицу век не пойду."
     },
     {
       "space": true,
       "chorus": false,
       "x_repeat": false,
-      "lyric_line": "А теперь под вечер аж пятки горят"
+      "lyric_line": "А теперь под вечер аж пятки горят –"
     },
     {
       "space": false,
@@ -84,43 +84,43 @@
       "space": false,
       "chorus": false,
       "x_repeat": false,
-      "lyric_line": "А там, под горою, пляска идет"
+      "lyric_line": "А там, под горою, пляска идет –"
     },
     {
       "space": false,
       "chorus": false,
       "x_repeat": true,
-      "lyric_line": "Девки голосистые звонко поют,"
+      "lyric_line": "Девки голосистые звонко поют"
     },
     {
       "space": false,
       "chorus": false,
       "x_repeat": true,
-      "lyric_line": "Мне да молодому спать не дают."
+      "lyric_line": "Мне да молоденькой спать не дают."
     },
     {
       "space": true,
       "chorus": false,
       "x_repeat": false,
-      "lyric_line": "Выйду на улицу, солнца нема,"
+      "lyric_line": "Выйду на улицу – солнца нема,"
     },
     {
       "space": false,
       "chorus": false,
       "x_repeat": false,
-      "lyric_line": "Красные девки свели меня с ума."
+      "lyric_line": "Парни молодые свели меня с ума."
     },
     {
       "space": false,
       "chorus": false,
       "x_repeat": true,
-      "lyric_line": "Выйду на улицу, гляну на село,"
+      "lyric_line": "Выйду на улицу, гляну на село, -"
     },
     {
       "space": false,
       "chorus": false,
       "x_repeat": true,
-      "lyric_line": "Девчата гуляют и мне весело."
+      "lyric_line": "Девки гуляют, и мне весело."
     }
   ]
 }
