@@ -1,0 +1,33 @@
+{
+  "name": "Учат в школе",
+  "category": "Детские Песни",
+  "performing_artist": "Эдуард Хиль",
+  "author_music": "В. Шаинский",
+  "author_lyrics": "М. Пляцковский",
+  "lyrics": [
+    { "space": false, "chorus": false, "x_repeat": false, "lyric_line": "Буквы разные писать" },
+    { "space": false, "chorus": false, "x_repeat": false, "lyric_line": "Тонким пёрышком в тетрадь" },
+    { "space": false, "chorus": true, "x_repeat": false, "lyric_line": "Учат в школе, учат в школе, учат в школе." },
+    { "space": false, "chorus": false, "x_repeat": false, "lyric_line": "Вычитать и умножать," },
+    { "space": false, "chorus": false, "x_repeat": false, "lyric_line": "Малышей не обижать" },
+    { "space": false, "chorus": true, "x_repeat": false, "lyric_line": "Учат в школе, учат в школе, учат в школе." },
+    { "space": true, "chorus": false, "x_repeat": false, "lyric_line": "К четырём прибавить два," },
+    { "space": false, "chorus": false, "x_repeat": false, "lyric_line": "По слогам читать слова" },
+    { "space": false, "chorus": true, "x_repeat": false, "lyric_line": "Учат в школе, учат в школе, учат в школе." },
+    { "space": false, "chorus": false, "x_repeat": false, "lyric_line": "Книжки добрые любить" },
+    { "space": false, "chorus": false, "x_repeat": false, "lyric_line": "И воспитанными быть" },
+    { "space": false, "chorus": true, "x_repeat": false, "lyric_line": "Учат в школе, учат в школе, учат в школе." },
+    { "space": true, "chorus": false, "x_repeat": false, "lyric_line": "Находить Восток и Юг," },
+    { "space": false, "chorus": false, "x_repeat": false, "lyric_line": "Рисовать квадрат и круг" },
+    { "space": false, "chorus": true, "x_repeat": false, "lyric_line": "Учат в школе, учат в школе, учат в школе." },
+    { "space": false, "chorus": false, "x_repeat": false, "lyric_line": "И не путать никогда" },
+    { "space": false, "chorus": false, "x_repeat": false, "lyric_line": "Острова и города" },
+    { "space": false, "chorus": true, "x_repeat": false, "lyric_line": "Учат в школе, учат в школе, учат в школе." },
+    { "space": true, "chorus": false, "x_repeat": false, "lyric_line": "Про глагол и про тире" },
+    { "space": false, "chorus": false, "x_repeat": false, "lyric_line": "И про дождик на дворе" },
+    { "space": false, "chorus": true, "x_repeat": false, "lyric_line": "Учат в школе, учат в школе, учат в школе." },
+    { "space": false, "chorus": false, "x_repeat": false, "lyric_line": "Крепко-накрепко дружить," },
+    { "space": false, "chorus": false, "x_repeat": false, "lyric_line": "С детства дружбой дорожить" },
+    { "space": false, "chorus": true, "x_repeat": false, "lyric_line": "Учат в школе, учат в школе, учат в школе." }
+  ]
+}
