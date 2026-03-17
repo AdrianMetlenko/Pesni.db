@@ -1,6 +1,9 @@
 {
   "name": "Тополя",
   "category": "Русские Романсы",
+  "performing_artist": "Народная",
+  "author_music": "Г. Пономаренко",
+  "author_lyrics": "А. Колесников",
   "lyrics": [
     {
       "space": true,

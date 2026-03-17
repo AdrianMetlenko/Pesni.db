@@ -1,7 +1,9 @@
 {
   "name": "Уральская рябинушка",
-  "performing_artist": "Надежда Кадышева",
   "category": "Народные Песни",
+  "performing_artist": "Народная",
+  "author_music": "Е. Родыгин",
+  "author_lyrics": "М. Пилипенко",
   "lyrics": [
     {
       "space": true,

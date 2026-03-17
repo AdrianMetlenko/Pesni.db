@@ -1,6 +1,9 @@
 {
   "name": "Журавли",
   "category": "Патриотические и Военные Песни",
+  "performing_artist": "Марк Бернес",
+  "author_music": "Я. Френкель",
+  "author_lyrics": "Р. Гамзатов",
   "lyrics": [
     {
       "space": true,

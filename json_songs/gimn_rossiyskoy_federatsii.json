@@ -1,6 +1,9 @@
 {
   "name": "Гимн Российской Федерации",
   "category": "Патриотические и Военные Песни",
+  "performing_artist": "Гимн",
+  "author_music": "А. Александров",
+  "author_lyrics": "С. Михалков",
   "lyrics": [
     {"space": true, "chorus": false, "x_repeat": false, "lyric_line": "Россия — священная наша держава,"},
     {"space": false, "chorus": false, "x_repeat": false, "lyric_line": "Россия — любимая наша страна."},

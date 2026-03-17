@@ -1,6 +1,9 @@
 {
   "name": "Калинка",
   "category": "Народные Песни",
+  "performing_artist": "Народная",
+  "author_music": "И. Ларионов",
+  "author_lyrics": "И. Ларионов",
   "lyrics": [
     {
       "space": true,

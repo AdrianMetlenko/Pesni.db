@@ -1,6 +1,9 @@
 {
   "name": "Песенка крокодила Гены",
   "category": "Детские Песни",
+  "performing_artist": "В. Ферапонтов",
+  "author_music": "В. Шаинский",
+  "author_lyrics": "А. Тимофеевский",
   "lyrics": [
     {
       "space": true,

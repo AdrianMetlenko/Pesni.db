@@ -1,7 +1,9 @@
 {
   "name": "Когда-нибудь",
-  "performing_artist": "Надежда Кадышева",
   "category": "Народные Песни",
+  "performing_artist": "Н. Караченцов",
+  "author_music": "А. Рыбников",
+  "author_lyrics": "А. Вознесенский",
   "lyrics": [
     {
       "space": true,

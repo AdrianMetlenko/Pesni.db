@@ -1,6 +1,9 @@
 {
   "name": "Черный ворон",
   "category": "Казачьи Песни",
+  "performing_artist": "Народная",
+  "author_music": "Народная",
+  "author_lyrics": "Н. Веревкин",
   "lyrics": [
     {
       "space": true,

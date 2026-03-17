@@ -1,6 +1,9 @@
 {
   "name": "На теплоходе музыка играет",
   "category": "Разные Песни",
+  "performing_artist": "Ольга Зарубина",
+  "author_music": "В. Добрынин",
+  "author_lyrics": "М. Рябинин",
   "lyrics": [
     {
       "space": true,

@@ -1,6 +1,9 @@
 {
   "name": "Ах, мамочка",
   "category": "Народные Песни",
+  "performing_artist": "Марина Девятова",
+  "author_music": "А. Флярковский",
+  "author_lyrics": "Л. Дербенев",
   "lyrics": [
     {
       "space": true,

@@ -1,7 +1,9 @@
 {
   "name": "То не ветер ветку клонит",
-  "performing_artist": "Надежда Кадышева",
   "category": "Народные Песни",
+  "performing_artist": "Народная",
+  "author_music": "А. Варламов",
+  "author_lyrics": "С. Стромилов",
   "lyrics": [
     {
       "space": true,

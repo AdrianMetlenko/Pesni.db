@@ -1,6 +1,9 @@
 {
   "name": "И кто его знает",
   "category": "Народные Песни",
+  "performing_artist": "Народная",
+  "author_music": "В. Захаров",
+  "author_lyrics": "М. Исаковский",
   "lyrics": [
     {
       "space": true,

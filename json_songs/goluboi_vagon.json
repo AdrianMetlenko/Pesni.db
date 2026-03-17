@@ -1,6 +1,9 @@
 {
   "name": "Голубой вагон",
   "category": "Детские Песни",
+  "performing_artist": "В. Ферапонтов",
+  "author_music": "В. Шаинский",
+  "author_lyrics": "Э. Успенский",
   "lyrics": [
     {
       "space": true,

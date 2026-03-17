@@ -1,6 +1,9 @@
 {
   "name": "Боже, Царя храни!",
   "category": "Патриотические и Военные Песни",
+  "performing_artist": "Гимн",
+  "author_music": "А. Львов",
+  "author_lyrics": "В. Жуковский",
   "lyrics": [
     {
       "space": true,

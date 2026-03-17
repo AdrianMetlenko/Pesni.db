@@ -1,6 +1,9 @@
 {
   "name": "Живет моя отрада",
   "category": "Народные Песни",
+  "performing_artist": "Народная",
+  "author_music": "М. Шишкин",
+  "author_lyrics": "С. Рыскин",
   "lyrics": [
     {
       "space": true,

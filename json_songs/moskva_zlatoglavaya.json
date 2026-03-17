@@ -1,6 +1,9 @@
 {
   "name": "Москва златоглавая",
   "category": "Народные Песни",
+  "performing_artist": "Народная",
+  "author_music": "Ш. Секунда",
+  "author_lyrics": "Народная",
   "lyrics": [
     {
       "space": true,

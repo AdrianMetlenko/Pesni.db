@@ -1,6 +1,9 @@
 {
   "name": "Эх, дороги",
   "category": "Русские Романсы",
+  "performing_artist": "Народная",
+  "author_music": "А. Новиков",
+  "author_lyrics": "Л. Ошанин",
   "lyrics": [
     {
       "space": true,

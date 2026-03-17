@@ -1,6 +1,9 @@
 {
   "name": "Степ, да степ кругом!",
   "category": "Народные Песни",
+  "performing_artist": "Народная",
+  "author_music": "Народная",
+  "author_lyrics": "И. Суриков",
   "lyrics": [
     {
       "space": true,

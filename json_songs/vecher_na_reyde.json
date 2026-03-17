@@ -1,6 +1,9 @@
 {
   "name": "Вечер на рейде",
   "category": "Патриотические и Военные Песни",
+  "performing_artist": "Народная",
+  "author_music": "В. Соловьев-Седой",
+  "author_lyrics": "А. Чуркин",
   "lyrics": [
     {
       "space": true,

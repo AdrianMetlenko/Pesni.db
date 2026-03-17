@@ -1,6 +1,9 @@
 {
   "name": "Подмосковные вечера",
   "category": "Русские Романсы",
+  "performing_artist": "В. Трошин",
+  "author_music": "В. Соловьев-Седой",
+  "author_lyrics": "М. Матусовский",
   "lyrics": [
     {
       "space": true,

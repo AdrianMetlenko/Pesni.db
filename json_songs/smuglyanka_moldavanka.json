@@ -1,6 +1,9 @@
 {
   "name": "Смуглянка-молдаванка",
   "category": "Народные Песни",
+  "performing_artist": "Народная",
+  "author_music": "А. Новиков",
+  "author_lyrics": "Я. Шведов",
   "lyrics": [
     {
       "space": true,

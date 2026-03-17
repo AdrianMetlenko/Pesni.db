@@ -1,6 +1,9 @@
 {
   "name": "Александра",
   "category": "Разные Песни",
+  "performing_artist": "С. Никитин, Т. Никитина",
+  "author_music": "С. Никитин",
+  "author_lyrics": "Ю. Визбор, Д. Сухарев",
   "lyrics": [
     {
       "space": true,

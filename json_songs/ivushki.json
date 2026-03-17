@@ -1,6 +1,9 @@
 {
   "name": "Ивушки",
   "category": "Народные Песни",
+  "performing_artist": "Народная",
+  "author_music": "Г. Пономаренко",
+  "author_lyrics": "В. Алферов",
   "lyrics": [
     {
       "space": true,

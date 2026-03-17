@@ -1,6 +1,9 @@
 {
   "name": "Однозвучно гремит колокольчик",
   "category": "Народные Песни",
+  "performing_artist": "Народная",
+  "author_music": "А. Гурилев",
+  "author_lyrics": "И. Макаров",
   "lyrics": [
     {
       "space": true,

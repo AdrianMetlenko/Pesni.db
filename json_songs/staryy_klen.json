@@ -1,6 +1,9 @@
 {
   "name": "Старый клен",
   "category": "Русские Романсы",
+  "performing_artist": "Народная",
+  "author_music": "А. Пахмутова",
+  "author_lyrics": "М. Матусовский",
   "lyrics": [
     {
       "space": true,

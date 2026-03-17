@@ -1,7 +1,9 @@
 {
   "name": "На горе колхоз",
-  "performing_artist": "Надежда Кадышева",
   "category": "Народные Песни",
+  "performing_artist": "Народная",
+  "author_music": "Народная",
+  "author_lyrics": "Народная",
   "lyrics": [
     {
       "space": true,

@@ -1,6 +1,9 @@
 {
   "name": "Ой, цветет калина",
   "category": "Народные Песни",
+  "performing_artist": "Народная",
+  "author_music": "И. Дунаевский",
+  "author_lyrics": "М. Исаковский",
   "lyrics": [
     {
       "space": true,

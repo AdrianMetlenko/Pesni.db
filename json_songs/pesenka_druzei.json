@@ -1,6 +1,9 @@
 {
   "name": "Песенка друзей",
   "category": "Детские Песни",
+  "performing_artist": "О. Анофриев",
+  "author_music": "Г. Гладков",
+  "author_lyrics": "Ю. Энтин",
   "lyrics": [
     {
       "space": true,

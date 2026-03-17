@@ -1,6 +1,9 @@
 {
   "name": "Бородино",
   "category": "Патриотические и Военные Песни",
+  "performing_artist": "Народная",
+  "author_music": "Народная",
+  "author_lyrics": "М. Лермонтов",
   "lyrics": [
     {
       "space": true,

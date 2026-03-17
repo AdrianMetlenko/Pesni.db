@@ -1,6 +1,9 @@
 {
   "name": "Серенада Трубадура",
   "category": "Детские Песни",
+  "performing_artist": "М. Магомаев",
+  "author_music": "Г. Гладков",
+  "author_lyrics": "Ю. Энтин",
   "lyrics": [
     {
       "space": true,

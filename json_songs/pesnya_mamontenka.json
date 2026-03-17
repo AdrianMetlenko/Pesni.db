@@ -1,6 +1,9 @@
 {
   "name": "Песня Мамонтёнка",
   "category": "Детские Песни",
+  "performing_artist": "В. Румянова",
+  "author_music": "В. Шаинский",
+  "author_lyrics": "Д. Непомнящая",
   "lyrics": [
     {
       "space": true,

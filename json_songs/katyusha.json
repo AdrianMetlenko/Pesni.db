@@ -1,6 +1,9 @@
 {
   "name": "Катюша",
   "category": "Народные Песни",
+  "performing_artist": "Народная",
+  "author_music": "М. Блантер",
+  "author_lyrics": "М. Исаковский",
   "lyrics": [
     {
       "space": true,

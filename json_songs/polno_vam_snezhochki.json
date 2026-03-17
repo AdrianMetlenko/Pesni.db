@@ -1,6 +1,9 @@
 {
   "name": "Полно вам снежочки",
   "category": "Казачьи Песни",
+  "performing_artist": "Народная",
+  "author_music": "Народная",
+  "author_lyrics": "Народная",
   "lyrics": [
     {
       "space": true,

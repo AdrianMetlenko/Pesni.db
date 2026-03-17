@@ -1,6 +1,9 @@
 {
   "name": "Мы едем, едем, едем",
   "category": "Детские Песни",
+  "performing_artist": "Народная",
+  "author_music": "М. Старокадомский",
+  "author_lyrics": "С. Михалков",
   "lyrics": [
     {
       "space": false,

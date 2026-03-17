@@ -1,6 +1,9 @@
 {
   "name": "Дорогой длинною",
   "category": "Русские Романсы",
+  "performing_artist": "Народная",
+  "author_music": "Б. Фомин",
+  "author_lyrics": "К. Подревский",
   "lyrics": [
     {
       "space": true,

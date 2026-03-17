@@ -1,6 +1,9 @@
 {
   "name": "Не для меня",
   "category": "Казачьи Песни",
+  "performing_artist": "Народная",
+  "author_music": "Н. Девитте",
+  "author_lyrics": "А. Молчанов",
   "lyrics": [
     {
       "space": true,

@@ -1,6 +1,9 @@
 {
   "name": "Вечерний звон",
   "category": "Русские Романсы",
+  "performing_artist": "Народная",
+  "author_music": "А. Алябьев",
+  "author_lyrics": "И. Козлов",
   "lyrics": [
     {
       "space": true,

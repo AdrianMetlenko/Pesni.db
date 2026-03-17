@@ -1,6 +1,9 @@
 {
   "name": "Молитва",
   "category": "Православные Песни",
+  "performing_artist": "Народная",
+  "author_music": "М. Глинка",
+  "author_lyrics": "М. Лермонтов",
   "lyrics": [
     {
       "space": true,

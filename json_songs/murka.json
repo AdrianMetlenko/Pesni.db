@@ -1,6 +1,9 @@
 {
   "name": "Мурка",
   "category": "Народные Песни",
+  "performing_artist": "Народная",
+  "author_music": "О. Строк",
+  "author_lyrics": "Я. Ядов",
   "lyrics": [
     {
       "space": true,

@@ -1,6 +1,9 @@
 {
   "name": "Песня Чебурашки",
   "category": "Детские Песни",
+  "performing_artist": "В. Румянова",
+  "author_music": "В. Шаинский",
+  "author_lyrics": "Э. Успенский",
   "lyrics": [
     {
       "space": true,

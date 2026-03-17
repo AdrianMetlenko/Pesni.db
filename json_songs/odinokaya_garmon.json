@@ -1,6 +1,9 @@
 {
   "name": "Одинокая гармонь",
   "category": "Народные Песни",
+  "performing_artist": "Народная",
+  "author_music": "Б. Мокроусов",
+  "author_lyrics": "М. Исаковский",
   "lyrics": [
     {
       "space": true,

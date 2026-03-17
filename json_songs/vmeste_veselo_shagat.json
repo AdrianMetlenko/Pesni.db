@@ -1,6 +1,9 @@
 {
   "name": "Вместе весело шагать",
   "category": "Детские Песни",
+  "performing_artist": "В. Шаинский",
+  "author_music": "В. Шаинский",
+  "author_lyrics": "М. Матусовский",
   "lyrics": [
     {
       "space": true,

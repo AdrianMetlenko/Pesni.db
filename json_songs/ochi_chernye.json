@@ -1,6 +1,9 @@
 {
   "name": "Очи черные",
   "category": "Русские Романсы",
+  "performing_artist": "Народная",
+  "author_music": "Ф. Герман",
+  "author_lyrics": "Е. Гребенка",
   "lyrics": [
     {
       "space": true,
